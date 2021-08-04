@@ -7,7 +7,7 @@ A fork of Montserrat Regular by Google Fonts with Greek support (including Greek
 
 2. There are some kerning issues with some characters which need to be fixed.
 
-Based on version 7.210. 
+Based on version 7.210. Also adjusted Cyrillic Ѳ (wrong bar location) and Ф (descending below baseline).
 
 Sample images below are the following:
 
