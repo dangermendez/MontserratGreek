@@ -1,5 +1,5 @@
 # MontserratGreek
-A fork of Montserrat Regular by Google Fonts with Greek support (including Greek Extended (the polytonic glyphs used in Ancient Greek). Be careful, only regular weight is included. More weights coming soon. I have also modified the "π" to look better.
+A fork of Montserrat Regular by Google Fonts with Greek support (including Greek Extended (the polytonic glyphs used in Ancient Greek). Be careful, only regular weight is included. More weights coming soon. I have also modified the "π" to look better. This was designed in response to multiple requests by users.
 
 *NOTES: 
 
