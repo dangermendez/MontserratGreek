@@ -7,6 +7,8 @@ A fork of Montserrat Regular by Google Fonts with Greek support (including Greek
 
 2. There are some kerning issues with some characters which need to be fixed.
 
+3. In order to fit with the breathing marks' height, the Greek grave and acute accents, were made taller. *The Latin ones remain unchanged*.
+
 Based on version 7.210. Also adjusted Cyrillic Ѳ (wrong bar location) and Ф (descending below baseline).
 
 Sample images below are the following:
