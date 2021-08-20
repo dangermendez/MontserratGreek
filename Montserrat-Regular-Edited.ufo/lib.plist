@@ -1,0 +1,6382 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>com.typemytype.robofont.binarySource</key>
+    <string>/Users/user/Documents/MontserratEdited/Montserrat-Regular-Edited.ttf</string>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4903452240</string>
+    <key>public.glyphOrder</key>
+    <array>
+      <string>.notdef</string>
+      <string>.null</string>
+      <string>nonmarkingreturn</string>
+      <string>NULL</string>
+      <string>space</string>
+      <string>exclam</string>
+      <string>quotedbl</string>
+      <string>numbersign</string>
+      <string>dollar</string>
+      <string>percent</string>
+      <string>ampersand</string>
+      <string>quotesingle</string>
+      <string>parenleft</string>
+      <string>parenright</string>
+      <string>asterisk</string>
+      <string>plus</string>
+      <string>comma</string>
+      <string>hyphen</string>
+      <string>period</string>
+      <string>slash</string>
+      <string>zero</string>
+      <string>one</string>
+      <string>two</string>
+      <string>three</string>
+      <string>four</string>
+      <string>five</string>
+      <string>six</string>
+      <string>seven</string>
+      <string>eight</string>
+      <string>nine</string>
+      <string>colon</string>
+      <string>semicolon</string>
+      <string>less</string>
+      <string>equal</string>
+      <string>greater</string>
+      <string>question</string>
+      <string>at</string>
+      <string>A</string>
+      <string>B</string>
+      <string>C</string>
+      <string>D</string>
+      <string>E</string>
+      <string>F</string>
+      <string>G</string>
+      <string>H</string>
+      <string>I</string>
+      <string>J</string>
+      <string>K</string>
+      <string>L</string>
+      <string>M</string>
+      <string>N</string>
+      <string>O</string>
+      <string>P</string>
+      <string>Q</string>
+      <string>R</string>
+      <string>S</string>
+      <string>T</string>
+      <string>U</string>
+      <string>V</string>
+      <string>W</string>
+      <string>X</string>
+      <string>Y</string>
+      <string>Z</string>
+      <string>bracketleft</string>
+      <string>backslash</string>
+      <string>bracketright</string>
+      <string>asciicircum</string>
+      <string>underscore</string>
+      <string>grave</string>
+      <string>a</string>
+      <string>b</string>
+      <string>c</string>
+      <string>d</string>
+      <string>e</string>
+      <string>f</string>
+      <string>g</string>
+      <string>h</string>
+      <string>i</string>
+      <string>j</string>
+      <string>k</string>
+      <string>l</string>
+      <string>m</string>
+      <string>n</string>
+      <string>o</string>
+      <string>p</string>
+      <string>q</string>
+      <string>r</string>
+      <string>s</string>
+      <string>t</string>
+      <string>u</string>
+      <string>v</string>
+      <string>w</string>
+      <string>x</string>
+      <string>y</string>
+      <string>z</string>
+      <string>braceleft</string>
+      <string>bar</string>
+      <string>braceright</string>
+      <string>asciitilde</string>
+      <string>uni00A0</string>
+      <string>exclamdown</string>
+      <string>cent</string>
+      <string>sterling</string>
+      <string>currency</string>
+      <string>yen</string>
+      <string>brokenbar</string>
+      <string>section</string>
+      <string>dieresis</string>
+      <string>copyright</string>
+      <string>ordfeminine</string>
+      <string>guillemotleft</string>
+      <string>logicalnot</string>
+      <string>uni00AD</string>
+      <string>registered</string>
+      <string>macron</string>
+      <string>degree</string>
+      <string>plusminus</string>
+      <string>uni00B2</string>
+      <string>uni00B3</string>
+      <string>acute</string>
+      <string>uni00B5</string>
+      <string>paragraph</string>
+      <string>periodcentered</string>
+      <string>cedilla</string>
+      <string>uni00B9</string>
+      <string>ordmasculine</string>
+      <string>guillemotright</string>
+      <string>onequarter</string>
+      <string>onehalf</string>
+      <string>threequarters</string>
+      <string>questiondown</string>
+      <string>Agrave</string>
+      <string>Aacute</string>
+      <string>Acircumflex</string>
+      <string>Atilde</string>
+      <string>Adieresis</string>
+      <string>Aring</string>
+      <string>AE</string>
+      <string>Ccedilla</string>
+      <string>Egrave</string>
+      <string>Eacute</string>
+      <string>Ecircumflex</string>
+      <string>Edieresis</string>
+      <string>Igrave</string>
+      <string>Iacute</string>
+      <string>Icircumflex</string>
+      <string>Idieresis</string>
+      <string>Eth</string>
+      <string>Ntilde</string>
+      <string>Ograve</string>
+      <string>Oacute</string>
+      <string>Ocircumflex</string>
+      <string>Otilde</string>
+      <string>Odieresis</string>
+      <string>multiply</string>
+      <string>Oslash</string>
+      <string>Ugrave</string>
+      <string>Uacute</string>
+      <string>Ucircumflex</string>
+      <string>Udieresis</string>
+      <string>Yacute</string>
+      <string>Thorn</string>
+      <string>germandbls</string>
+      <string>agrave</string>
+      <string>aacute</string>
+      <string>acircumflex</string>
+      <string>atilde</string>
+      <string>adieresis</string>
+      <string>aring</string>
+      <string>ae</string>
+      <string>ccedilla</string>
+      <string>egrave</string>
+      <string>eacute</string>
+      <string>ecircumflex</string>
+      <string>edieresis</string>
+      <string>igrave</string>
+      <string>iacute</string>
+      <string>icircumflex</string>
+      <string>idieresis</string>
+      <string>eth</string>
+      <string>ntilde</string>
+      <string>ograve</string>
+      <string>oacute</string>
+      <string>ocircumflex</string>
+      <string>otilde</string>
+      <string>odieresis</string>
+      <string>divide</string>
+      <string>oslash</string>
+      <string>ugrave</string>
+      <string>uacute</string>
+      <string>ucircumflex</string>
+      <string>udieresis</string>
+      <string>yacute</string>
+      <string>thorn</string>
+      <string>ydieresis</string>
+      <string>Amacron</string>
+      <string>amacron</string>
+      <string>Abreve</string>
+      <string>abreve</string>
+      <string>Aogonek</string>
+      <string>aogonek</string>
+      <string>Cacute</string>
+      <string>cacute</string>
+      <string>Ccircumflex</string>
+      <string>ccircumflex</string>
+      <string>Cdotaccent</string>
+      <string>cdotaccent</string>
+      <string>Ccaron</string>
+      <string>ccaron</string>
+      <string>Dcaron</string>
+      <string>dcaron</string>
+      <string>Dcroat</string>
+      <string>dcroat</string>
+      <string>Emacron</string>
+      <string>emacron</string>
+      <string>Ebreve</string>
+      <string>ebreve</string>
+      <string>Edotaccent</string>
+      <string>edotaccent</string>
+      <string>Eogonek</string>
+      <string>eogonek</string>
+      <string>Ecaron</string>
+      <string>ecaron</string>
+      <string>Gcircumflex</string>
+      <string>gcircumflex</string>
+      <string>Gbreve</string>
+      <string>gbreve</string>
+      <string>Gdotaccent</string>
+      <string>gdotaccent</string>
+      <string>Gcommaaccent</string>
+      <string>gcommaaccent</string>
+      <string>Hcircumflex</string>
+      <string>hcircumflex</string>
+      <string>Hbar</string>
+      <string>hbar</string>
+      <string>Itilde</string>
+      <string>itilde</string>
+      <string>Imacron</string>
+      <string>imacron</string>
+      <string>Ibreve</string>
+      <string>ibreve</string>
+      <string>Iogonek</string>
+      <string>iogonek</string>
+      <string>Idotaccent</string>
+      <string>dotlessi</string>
+      <string>IJ</string>
+      <string>ij</string>
+      <string>Jcircumflex</string>
+      <string>jcircumflex</string>
+      <string>Kcommaaccent</string>
+      <string>kcommaaccent</string>
+      <string>kgreenlandic</string>
+      <string>Lacute</string>
+      <string>lacute</string>
+      <string>Lcommaaccent</string>
+      <string>lcommaaccent</string>
+      <string>Lcaron</string>
+      <string>lcaron</string>
+      <string>Ldot</string>
+      <string>ldot</string>
+      <string>Lslash</string>
+      <string>lslash</string>
+      <string>Nacute</string>
+      <string>nacute</string>
+      <string>Ncommaaccent</string>
+      <string>ncommaaccent</string>
+      <string>Ncaron</string>
+      <string>ncaron</string>
+      <string>napostrophe</string>
+      <string>Eng</string>
+      <string>eng</string>
+      <string>Omacron</string>
+      <string>omacron</string>
+      <string>Obreve</string>
+      <string>obreve</string>
+      <string>Ohungarumlaut</string>
+      <string>ohungarumlaut</string>
+      <string>OE</string>
+      <string>oe</string>
+      <string>Racute</string>
+      <string>racute</string>
+      <string>Rcommaaccent</string>
+      <string>rcommaaccent</string>
+      <string>Rcaron</string>
+      <string>rcaron</string>
+      <string>Sacute</string>
+      <string>sacute</string>
+      <string>Scircumflex</string>
+      <string>scircumflex</string>
+      <string>Scedilla</string>
+      <string>scedilla</string>
+      <string>Scaron</string>
+      <string>scaron</string>
+      <string>uni0162</string>
+      <string>uni0163</string>
+      <string>Tcaron</string>
+      <string>tcaron</string>
+      <string>Tbar</string>
+      <string>tbar</string>
+      <string>Utilde</string>
+      <string>utilde</string>
+      <string>Umacron</string>
+      <string>umacron</string>
+      <string>Ubreve</string>
+      <string>ubreve</string>
+      <string>Uring</string>
+      <string>uring</string>
+      <string>Uhungarumlaut</string>
+      <string>uhungarumlaut</string>
+      <string>Uogonek</string>
+      <string>uogonek</string>
+      <string>Wcircumflex</string>
+      <string>wcircumflex</string>
+      <string>Ycircumflex</string>
+      <string>ycircumflex</string>
+      <string>Ydieresis</string>
+      <string>Zacute</string>
+      <string>zacute</string>
+      <string>Zdotaccent</string>
+      <string>zdotaccent</string>
+      <string>Zcaron</string>
+      <string>zcaron</string>
+      <string>longs</string>
+      <string>uni018F</string>
+      <string>florin</string>
+      <string>Ohorn</string>
+      <string>ohorn</string>
+      <string>Uhorn</string>
+      <string>uhorn</string>
+      <string>uni01B7</string>
+      <string>uni01C4</string>
+      <string>uni01C5</string>
+      <string>uni01C6</string>
+      <string>uni01C7</string>
+      <string>uni01C8</string>
+      <string>uni01C9</string>
+      <string>uni01CA</string>
+      <string>uni01CB</string>
+      <string>uni01CC</string>
+      <string>uni01CD</string>
+      <string>uni01CE</string>
+      <string>uni01CF</string>
+      <string>uni01D0</string>
+      <string>uni01D1</string>
+      <string>uni01D2</string>
+      <string>uni01D3</string>
+      <string>uni01D4</string>
+      <string>uni01D5</string>
+      <string>uni01D6</string>
+      <string>uni01D7</string>
+      <string>uni01D8</string>
+      <string>uni01D9</string>
+      <string>uni01DA</string>
+      <string>uni01DB</string>
+      <string>uni01DC</string>
+      <string>uni01DE</string>
+      <string>uni01DF</string>
+      <string>uni01E0</string>
+      <string>uni01E1</string>
+      <string>uni01E2</string>
+      <string>uni01E3</string>
+      <string>uni01E4</string>
+      <string>uni01E5</string>
+      <string>Gcaron</string>
+      <string>gcaron</string>
+      <string>uni01E8</string>
+      <string>uni01E9</string>
+      <string>uni01EA</string>
+      <string>uni01EB</string>
+      <string>uni01EC</string>
+      <string>uni01ED</string>
+      <string>uni01EE</string>
+      <string>uni01EF</string>
+      <string>uni01F0</string>
+      <string>uni01F4</string>
+      <string>uni01F5</string>
+      <string>uni01F8</string>
+      <string>uni01F9</string>
+      <string>Aringacute</string>
+      <string>aringacute</string>
+      <string>AEacute</string>
+      <string>aeacute</string>
+      <string>Oslashacute</string>
+      <string>oslashacute</string>
+      <string>uni0200</string>
+      <string>uni0201</string>
+      <string>uni0202</string>
+      <string>uni0203</string>
+      <string>uni0204</string>
+      <string>uni0205</string>
+      <string>uni0206</string>
+      <string>uni0207</string>
+      <string>uni0208</string>
+      <string>uni0209</string>
+      <string>uni020A</string>
+      <string>uni020B</string>
+      <string>uni020C</string>
+      <string>uni020D</string>
+      <string>uni020E</string>
+      <string>uni020F</string>
+      <string>uni0210</string>
+      <string>uni0211</string>
+      <string>uni0212</string>
+      <string>uni0213</string>
+      <string>uni0214</string>
+      <string>uni0215</string>
+      <string>uni0216</string>
+      <string>uni0217</string>
+      <string>Scommaaccent</string>
+      <string>scommaaccent</string>
+      <string>uni021A</string>
+      <string>uni021B</string>
+      <string>uni021E</string>
+      <string>uni021F</string>
+      <string>uni0226</string>
+      <string>uni0227</string>
+      <string>uni0228</string>
+      <string>uni0229</string>
+      <string>uni022A</string>
+      <string>uni022B</string>
+      <string>uni022C</string>
+      <string>uni022D</string>
+      <string>uni022E</string>
+      <string>uni022F</string>
+      <string>uni0230</string>
+      <string>uni0231</string>
+      <string>uni0232</string>
+      <string>uni0233</string>
+      <string>uni0237</string>
+      <string>uni0259</string>
+      <string>uni0292</string>
+      <string>uni02B9</string>
+      <string>uni02BA</string>
+      <string>uni02BB</string>
+      <string>uni02BC</string>
+      <string>uni02BE</string>
+      <string>uni02BF</string>
+      <string>circumflex</string>
+      <string>caron</string>
+      <string>uni02C8</string>
+      <string>uni02C9</string>
+      <string>uni02CA</string>
+      <string>uni02CB</string>
+      <string>uni02CC</string>
+      <string>breve</string>
+      <string>dotaccent</string>
+      <string>ring</string>
+      <string>ogonek</string>
+      <string>tilde</string>
+      <string>hungarumlaut</string>
+      <string>gravecomb</string>
+      <string>acutecomb</string>
+      <string>uni0302</string>
+      <string>tildecomb</string>
+      <string>uni0304</string>
+      <string>uni0306</string>
+      <string>uni0307</string>
+      <string>uni0308</string>
+      <string>hookabovecomb</string>
+      <string>uni030A</string>
+      <string>uni030B</string>
+      <string>uni030C</string>
+      <string>uni030F</string>
+      <string>uni0311</string>
+      <string>uni0312</string>
+      <string>uni031B</string>
+      <string>dotbelowcomb</string>
+      <string>uni0324</string>
+      <string>uni0326</string>
+      <string>uni0327</string>
+      <string>uni0328</string>
+      <string>uni032E</string>
+      <string>uni0331</string>
+      <string>uni0335</string>
+      <string>uni0336</string>
+      <string>uni0337</string>
+      <string>uni0338</string>
+      <string>uni0345</string>
+      <string>uni0370</string>
+      <string>uni0371</string>
+      <string>uni0372</string>
+      <string>uni0373</string>
+      <string>uni0374</string>
+      <string>uni0375</string>
+      <string>uni037A</string>
+      <string>uni037B</string>
+      <string>uni037C</string>
+      <string>uni037D</string>
+      <string>uni037E</string>
+      <string>tonos</string>
+      <string>dieresistonos</string>
+      <string>Alphatonos</string>
+      <string>anoteleia</string>
+      <string>Epsilontonos</string>
+      <string>Etatonos</string>
+      <string>Iotatonos</string>
+      <string>Omicrontonos</string>
+      <string>Upsilontonos</string>
+      <string>Omegatonos</string>
+      <string>iotadieresistonos</string>
+      <string>Alpha</string>
+      <string>Beta</string>
+      <string>Gamma</string>
+      <string>uni0394</string>
+      <string>Epsilon</string>
+      <string>Zeta</string>
+      <string>Eta</string>
+      <string>Theta</string>
+      <string>Iota</string>
+      <string>Kappa</string>
+      <string>Lambda</string>
+      <string>Mu</string>
+      <string>Nu</string>
+      <string>Xi</string>
+      <string>Omicron</string>
+      <string>Pi</string>
+      <string>Rho</string>
+      <string>Sigma</string>
+      <string>Tau</string>
+      <string>Upsilon</string>
+      <string>Phi</string>
+      <string>Chi</string>
+      <string>Psi</string>
+      <string>uni03A9</string>
+      <string>Iotadieresis</string>
+      <string>Upsilondieresis</string>
+      <string>alphatonos</string>
+      <string>epsilontonos</string>
+      <string>etatonos</string>
+      <string>iotatonos</string>
+      <string>upsilondieresistonos</string>
+      <string>alpha</string>
+      <string>beta</string>
+      <string>gamma</string>
+      <string>delta</string>
+      <string>epsilon</string>
+      <string>zeta</string>
+      <string>eta</string>
+      <string>theta</string>
+      <string>iota</string>
+      <string>kappa</string>
+      <string>lambda</string>
+      <string>uni03BC</string>
+      <string>nu</string>
+      <string>xi</string>
+      <string>omicron</string>
+      <string>pi</string>
+      <string>rho</string>
+      <string>sigma1</string>
+      <string>sigma</string>
+      <string>tau</string>
+      <string>upsilon</string>
+      <string>phi</string>
+      <string>chi</string>
+      <string>psi</string>
+      <string>omega</string>
+      <string>iotadieresis</string>
+      <string>upsilondieresis</string>
+      <string>omicrontonos</string>
+      <string>upsilontonos</string>
+      <string>omegatonos</string>
+      <string>uni03D0</string>
+      <string>theta1</string>
+      <string>Upsilon1</string>
+      <string>uni03D3</string>
+      <string>uni03D4</string>
+      <string>phi1</string>
+      <string>omega1</string>
+      <string>uni03D7</string>
+      <string>uni03D8</string>
+      <string>uni03D9</string>
+      <string>uni03DA</string>
+      <string>uni03DB</string>
+      <string>uni03DC</string>
+      <string>uni03DD</string>
+      <string>uni03DE</string>
+      <string>uni03DF</string>
+      <string>uni03E0</string>
+      <string>uni03E1</string>
+      <string>uni03F0</string>
+      <string>uni03F1</string>
+      <string>uni03F2</string>
+      <string>uni03F3</string>
+      <string>uni03F4</string>
+      <string>uni03F5</string>
+      <string>uni03F6</string>
+      <string>uni03F7</string>
+      <string>uni03F8</string>
+      <string>uni03F9</string>
+      <string>uni03FA</string>
+      <string>uni03FB</string>
+      <string>uni03FC</string>
+      <string>uni03FD</string>
+      <string>uni03FE</string>
+      <string>uni03FF</string>
+      <string>uni0400</string>
+      <string>uni0401</string>
+      <string>uni0402</string>
+      <string>uni0403</string>
+      <string>uni0404</string>
+      <string>uni0405</string>
+      <string>uni0406</string>
+      <string>uni0407</string>
+      <string>uni0408</string>
+      <string>uni0409</string>
+      <string>uni040A</string>
+      <string>uni040B</string>
+      <string>uni040C</string>
+      <string>uni040D</string>
+      <string>uni040E</string>
+      <string>uni040F</string>
+      <string>uni0410</string>
+      <string>uni0411</string>
+      <string>uni0412</string>
+      <string>uni0413</string>
+      <string>uni0414</string>
+      <string>uni0415</string>
+      <string>uni0416</string>
+      <string>uni0417</string>
+      <string>uni0418</string>
+      <string>uni0419</string>
+      <string>uni041A</string>
+      <string>uni041B</string>
+      <string>uni041C</string>
+      <string>uni041D</string>
+      <string>uni041E</string>
+      <string>uni041F</string>
+      <string>uni0420</string>
+      <string>uni0421</string>
+      <string>uni0422</string>
+      <string>uni0423</string>
+      <string>uni0424</string>
+      <string>uni0425</string>
+      <string>uni0426</string>
+      <string>uni0427</string>
+      <string>uni0428</string>
+      <string>uni0429</string>
+      <string>uni042A</string>
+      <string>uni042B</string>
+      <string>uni042C</string>
+      <string>uni042D</string>
+      <string>uni042E</string>
+      <string>uni042F</string>
+      <string>uni0430</string>
+      <string>uni0431</string>
+      <string>uni0432</string>
+      <string>uni0433</string>
+      <string>uni0434</string>
+      <string>uni0435</string>
+      <string>uni0436</string>
+      <string>uni0437</string>
+      <string>uni0438</string>
+      <string>uni0439</string>
+      <string>uni043A</string>
+      <string>uni043B</string>
+      <string>uni043C</string>
+      <string>uni043D</string>
+      <string>uni043E</string>
+      <string>uni043F</string>
+      <string>uni0440</string>
+      <string>uni0441</string>
+      <string>uni0442</string>
+      <string>uni0443</string>
+      <string>uni0444</string>
+      <string>uni0445</string>
+      <string>uni0446</string>
+      <string>uni0447</string>
+      <string>uni0448</string>
+      <string>uni0449</string>
+      <string>uni044A</string>
+      <string>uni044B</string>
+      <string>uni044C</string>
+      <string>uni044D</string>
+      <string>uni044E</string>
+      <string>uni044F</string>
+      <string>uni0450</string>
+      <string>uni0451</string>
+      <string>uni0452</string>
+      <string>uni0453</string>
+      <string>uni0454</string>
+      <string>uni0455</string>
+      <string>uni0456</string>
+      <string>uni0457</string>
+      <string>uni0458</string>
+      <string>uni0459</string>
+      <string>uni045A</string>
+      <string>uni045B</string>
+      <string>uni045C</string>
+      <string>uni045D</string>
+      <string>uni045E</string>
+      <string>uni045F</string>
+      <string>uni0462</string>
+      <string>uni0463</string>
+      <string>uni046A</string>
+      <string>uni046B</string>
+      <string>uni0472</string>
+      <string>uni0473</string>
+      <string>uni0474</string>
+      <string>uni0475</string>
+      <string>uni0476</string>
+      <string>uni0477</string>
+      <string>uni048A</string>
+      <string>uni048B</string>
+      <string>uni048C</string>
+      <string>uni048D</string>
+      <string>uni048E</string>
+      <string>uni048F</string>
+      <string>uni0490</string>
+      <string>uni0491</string>
+      <string>uni0492</string>
+      <string>uni0493</string>
+      <string>uni0494</string>
+      <string>uni0495</string>
+      <string>uni0496</string>
+      <string>uni0497</string>
+      <string>uni0498</string>
+      <string>uni0499</string>
+      <string>uni049A</string>
+      <string>uni049B</string>
+      <string>uni049C</string>
+      <string>uni049D</string>
+      <string>uni049E</string>
+      <string>uni049F</string>
+      <string>uni04A0</string>
+      <string>uni04A1</string>
+      <string>uni04A2</string>
+      <string>uni04A3</string>
+      <string>uni04A4</string>
+      <string>uni04A5</string>
+      <string>uni04A6</string>
+      <string>uni04A7</string>
+      <string>uni04A8</string>
+      <string>uni04A9</string>
+      <string>uni04AA</string>
+      <string>uni04AB</string>
+      <string>uni04AC</string>
+      <string>uni04AD</string>
+      <string>uni04AE</string>
+      <string>uni04AF</string>
+      <string>uni04B0</string>
+      <string>uni04B1</string>
+      <string>uni04B2</string>
+      <string>uni04B3</string>
+      <string>uni04B4</string>
+      <string>uni04B5</string>
+      <string>uni04B6</string>
+      <string>uni04B7</string>
+      <string>uni04B8</string>
+      <string>uni04B9</string>
+      <string>uni04BA</string>
+      <string>uni04BB</string>
+      <string>uni04BC</string>
+      <string>uni04BD</string>
+      <string>uni04BE</string>
+      <string>uni04BF</string>
+      <string>uni04C0</string>
+      <string>uni04C1</string>
+      <string>uni04C2</string>
+      <string>uni04C3</string>
+      <string>uni04C4</string>
+      <string>uni04C6</string>
+      <string>uni04C7</string>
+      <string>uni04C8</string>
+      <string>uni04C9</string>
+      <string>uni04CA</string>
+      <string>uni04CB</string>
+      <string>uni04CC</string>
+      <string>uni04CD</string>
+      <string>uni04CE</string>
+      <string>uni04CF</string>
+      <string>uni04D0</string>
+      <string>uni04D1</string>
+      <string>uni04D2</string>
+      <string>uni04D3</string>
+      <string>uni04D4</string>
+      <string>uni04D5</string>
+      <string>uni04D6</string>
+      <string>uni04D7</string>
+      <string>uni04D8</string>
+      <string>uni04D9</string>
+      <string>uni04DA</string>
+      <string>uni04DB</string>
+      <string>uni04DC</string>
+      <string>uni04DD</string>
+      <string>uni04DE</string>
+      <string>uni04DF</string>
+      <string>uni04E0</string>
+      <string>uni04E1</string>
+      <string>uni04E2</string>
+      <string>uni04E3</string>
+      <string>uni04E4</string>
+      <string>uni04E5</string>
+      <string>uni04E6</string>
+      <string>uni04E7</string>
+      <string>uni04E8</string>
+      <string>uni04E9</string>
+      <string>uni04EA</string>
+      <string>uni04EB</string>
+      <string>uni04EC</string>
+      <string>uni04ED</string>
+      <string>uni04EE</string>
+      <string>uni04EF</string>
+      <string>uni04F0</string>
+      <string>uni04F1</string>
+      <string>uni04F2</string>
+      <string>uni04F3</string>
+      <string>uni04F4</string>
+      <string>uni04F5</string>
+      <string>uni04F6</string>
+      <string>uni04F7</string>
+      <string>uni04F8</string>
+      <string>uni04F9</string>
+      <string>uni04FA</string>
+      <string>uni04FB</string>
+      <string>uni04FC</string>
+      <string>uni04FD</string>
+      <string>uni04FE</string>
+      <string>uni04FF</string>
+      <string>uni0510</string>
+      <string>uni0511</string>
+      <string>uni0512</string>
+      <string>uni0513</string>
+      <string>uni051A</string>
+      <string>uni051B</string>
+      <string>uni051C</string>
+      <string>uni051D</string>
+      <string>uni0524</string>
+      <string>uni0525</string>
+      <string>uni0526</string>
+      <string>uni0527</string>
+      <string>uni0528</string>
+      <string>uni0529</string>
+      <string>uni052E</string>
+      <string>uni052F</string>
+      <string>uni1E00</string>
+      <string>uni1E01</string>
+      <string>uni1E02</string>
+      <string>uni1E03</string>
+      <string>uni1E04</string>
+      <string>uni1E05</string>
+      <string>uni1E06</string>
+      <string>uni1E07</string>
+      <string>uni1E08</string>
+      <string>uni1E09</string>
+      <string>uni1E0A</string>
+      <string>uni1E0B</string>
+      <string>uni1E0C</string>
+      <string>uni1E0D</string>
+      <string>uni1E0E</string>
+      <string>uni1E0F</string>
+      <string>uni1E10</string>
+      <string>uni1E11</string>
+      <string>uni1E12</string>
+      <string>uni1E13</string>
+      <string>uni1E14</string>
+      <string>uni1E15</string>
+      <string>uni1E16</string>
+      <string>uni1E17</string>
+      <string>uni1E18</string>
+      <string>uni1E19</string>
+      <string>uni1E1A</string>
+      <string>uni1E1B</string>
+      <string>uni1E1C</string>
+      <string>uni1E1D</string>
+      <string>uni1E1E</string>
+      <string>uni1E1F</string>
+      <string>uni1E20</string>
+      <string>uni1E21</string>
+      <string>uni1E22</string>
+      <string>uni1E23</string>
+      <string>uni1E24</string>
+      <string>uni1E25</string>
+      <string>uni1E26</string>
+      <string>uni1E27</string>
+      <string>uni1E28</string>
+      <string>uni1E29</string>
+      <string>uni1E2A</string>
+      <string>uni1E2B</string>
+      <string>uni1E2C</string>
+      <string>uni1E2D</string>
+      <string>uni1E2E</string>
+      <string>uni1E2F</string>
+      <string>uni1E30</string>
+      <string>uni1E31</string>
+      <string>uni1E32</string>
+      <string>uni1E33</string>
+      <string>uni1E34</string>
+      <string>uni1E35</string>
+      <string>uni1E36</string>
+      <string>uni1E37</string>
+      <string>uni1E38</string>
+      <string>uni1E39</string>
+      <string>uni1E3A</string>
+      <string>uni1E3B</string>
+      <string>uni1E3C</string>
+      <string>uni1E3D</string>
+      <string>uni1E3E</string>
+      <string>uni1E3F</string>
+      <string>uni1E40</string>
+      <string>uni1E41</string>
+      <string>uni1E42</string>
+      <string>uni1E43</string>
+      <string>uni1E44</string>
+      <string>uni1E45</string>
+      <string>uni1E46</string>
+      <string>uni1E47</string>
+      <string>uni1E48</string>
+      <string>uni1E49</string>
+      <string>uni1E4A</string>
+      <string>uni1E4B</string>
+      <string>uni1E4C</string>
+      <string>uni1E4D</string>
+      <string>uni1E4E</string>
+      <string>uni1E4F</string>
+      <string>uni1E50</string>
+      <string>uni1E51</string>
+      <string>uni1E52</string>
+      <string>uni1E53</string>
+      <string>uni1E54</string>
+      <string>uni1E55</string>
+      <string>uni1E56</string>
+      <string>uni1E57</string>
+      <string>uni1E58</string>
+      <string>uni1E59</string>
+      <string>uni1E5A</string>
+      <string>uni1E5B</string>
+      <string>uni1E5C</string>
+      <string>uni1E5D</string>
+      <string>uni1E5E</string>
+      <string>uni1E5F</string>
+      <string>uni1E60</string>
+      <string>uni1E61</string>
+      <string>uni1E62</string>
+      <string>uni1E63</string>
+      <string>uni1E64</string>
+      <string>uni1E65</string>
+      <string>uni1E66</string>
+      <string>uni1E67</string>
+      <string>uni1E68</string>
+      <string>uni1E69</string>
+      <string>uni1E6A</string>
+      <string>uni1E6B</string>
+      <string>uni1E6C</string>
+      <string>uni1E6D</string>
+      <string>uni1E6E</string>
+      <string>uni1E6F</string>
+      <string>uni1E70</string>
+      <string>uni1E71</string>
+      <string>uni1E72</string>
+      <string>uni1E73</string>
+      <string>uni1E74</string>
+      <string>uni1E75</string>
+      <string>uni1E76</string>
+      <string>uni1E77</string>
+      <string>uni1E78</string>
+      <string>uni1E79</string>
+      <string>uni1E7A</string>
+      <string>uni1E7B</string>
+      <string>uni1E7C</string>
+      <string>uni1E7D</string>
+      <string>uni1E7E</string>
+      <string>uni1E7F</string>
+      <string>Wgrave</string>
+      <string>wgrave</string>
+      <string>Wacute</string>
+      <string>wacute</string>
+      <string>Wdieresis</string>
+      <string>wdieresis</string>
+      <string>uni1E86</string>
+      <string>uni1E87</string>
+      <string>uni1E88</string>
+      <string>uni1E89</string>
+      <string>uni1E8A</string>
+      <string>uni1E8B</string>
+      <string>uni1E8C</string>
+      <string>uni1E8D</string>
+      <string>uni1E8E</string>
+      <string>uni1E8F</string>
+      <string>uni1E90</string>
+      <string>uni1E91</string>
+      <string>uni1E92</string>
+      <string>uni1E93</string>
+      <string>uni1E94</string>
+      <string>uni1E95</string>
+      <string>uni1E96</string>
+      <string>uni1E97</string>
+      <string>uni1E98</string>
+      <string>uni1E99</string>
+      <string>uni1E9B</string>
+      <string>uni1E9E</string>
+      <string>uni1EA0</string>
+      <string>uni1EA1</string>
+      <string>uni1EA2</string>
+      <string>uni1EA3</string>
+      <string>uni1EA4</string>
+      <string>uni1EA5</string>
+      <string>uni1EA6</string>
+      <string>uni1EA7</string>
+      <string>uni1EA8</string>
+      <string>uni1EA9</string>
+      <string>uni1EAA</string>
+      <string>uni1EAB</string>
+      <string>uni1EAC</string>
+      <string>uni1EAD</string>
+      <string>uni1EAE</string>
+      <string>uni1EAF</string>
+      <string>uni1EB0</string>
+      <string>uni1EB1</string>
+      <string>uni1EB2</string>
+      <string>uni1EB3</string>
+      <string>uni1EB4</string>
+      <string>uni1EB5</string>
+      <string>uni1EB6</string>
+      <string>uni1EB7</string>
+      <string>uni1EB8</string>
+      <string>uni1EB9</string>
+      <string>uni1EBA</string>
+      <string>uni1EBB</string>
+      <string>uni1EBC</string>
+      <string>uni1EBD</string>
+      <string>uni1EBE</string>
+      <string>uni1EBF</string>
+      <string>uni1EC0</string>
+      <string>uni1EC1</string>
+      <string>uni1EC2</string>
+      <string>uni1EC3</string>
+      <string>uni1EC4</string>
+      <string>uni1EC5</string>
+      <string>uni1EC6</string>
+      <string>uni1EC7</string>
+      <string>uni1EC8</string>
+      <string>uni1EC9</string>
+      <string>uni1ECA</string>
+      <string>uni1ECB</string>
+      <string>uni1ECC</string>
+      <string>uni1ECD</string>
+      <string>uni1ECE</string>
+      <string>uni1ECF</string>
+      <string>uni1ED0</string>
+      <string>uni1ED1</string>
+      <string>uni1ED2</string>
+      <string>uni1ED3</string>
+      <string>uni1ED4</string>
+      <string>uni1ED5</string>
+      <string>uni1ED6</string>
+      <string>uni1ED7</string>
+      <string>uni1ED8</string>
+      <string>uni1ED9</string>
+      <string>uni1EDA</string>
+      <string>uni1EDB</string>
+      <string>uni1EDC</string>
+      <string>uni1EDD</string>
+      <string>uni1EDE</string>
+      <string>uni1EDF</string>
+      <string>uni1EE0</string>
+      <string>uni1EE1</string>
+      <string>uni1EE2</string>
+      <string>uni1EE3</string>
+      <string>uni1EE4</string>
+      <string>uni1EE5</string>
+      <string>uni1EE6</string>
+      <string>uni1EE7</string>
+      <string>uni1EE8</string>
+      <string>uni1EE9</string>
+      <string>uni1EEA</string>
+      <string>uni1EEB</string>
+      <string>uni1EEC</string>
+      <string>uni1EED</string>
+      <string>uni1EEE</string>
+      <string>uni1EEF</string>
+      <string>uni1EF0</string>
+      <string>uni1EF1</string>
+      <string>Ygrave</string>
+      <string>ygrave</string>
+      <string>uni1EF4</string>
+      <string>uni1EF5</string>
+      <string>uni1EF6</string>
+      <string>uni1EF7</string>
+      <string>uni1EF8</string>
+      <string>uni1EF9</string>
+      <string>uni1F00</string>
+      <string>uni1F01</string>
+      <string>uni1F02</string>
+      <string>uni1F03</string>
+      <string>uni1F04</string>
+      <string>uni1F05</string>
+      <string>uni1F06</string>
+      <string>uni1F07</string>
+      <string>uni1F08</string>
+      <string>uni1F09</string>
+      <string>uni1F0A</string>
+      <string>uni1F0B</string>
+      <string>uni1F0C</string>
+      <string>uni1F0D</string>
+      <string>uni1F0E</string>
+      <string>uni1F0F</string>
+      <string>uni1F10</string>
+      <string>uni1F11</string>
+      <string>uni1F12</string>
+      <string>uni1F13</string>
+      <string>uni1F14</string>
+      <string>uni1F15</string>
+      <string>uni1F18</string>
+      <string>uni1F19</string>
+      <string>uni1F1A</string>
+      <string>uni1F1B</string>
+      <string>uni1F1C</string>
+      <string>uni1F1D</string>
+      <string>uni1F20</string>
+      <string>uni1F21</string>
+      <string>uni1F22</string>
+      <string>uni1F23</string>
+      <string>uni1F24</string>
+      <string>uni1F25</string>
+      <string>uni1F26</string>
+      <string>uni1F27</string>
+      <string>uni1F28</string>
+      <string>uni1F29</string>
+      <string>uni1F2A</string>
+      <string>uni1F2B</string>
+      <string>uni1F2C</string>
+      <string>uni1F2D</string>
+      <string>uni1F2E</string>
+      <string>uni1F2F</string>
+      <string>uni1F30</string>
+      <string>uni1F31</string>
+      <string>uni1F32</string>
+      <string>uni1F33</string>
+      <string>uni1F34</string>
+      <string>uni1F35</string>
+      <string>uni1F36</string>
+      <string>uni1F37</string>
+      <string>uni1F38</string>
+      <string>uni1F39</string>
+      <string>uni1F3A</string>
+      <string>uni1F3B</string>
+      <string>uni1F3C</string>
+      <string>uni1F3D</string>
+      <string>uni1F3E</string>
+      <string>uni1F3F</string>
+      <string>uni1F40</string>
+      <string>uni1F41</string>
+      <string>uni1F42</string>
+      <string>uni1F43</string>
+      <string>uni1F44</string>
+      <string>uni1F45</string>
+      <string>uni1F48</string>
+      <string>uni1F49</string>
+      <string>uni1F4A</string>
+      <string>uni1F4B</string>
+      <string>uni1F4C</string>
+      <string>uni1F4D</string>
+      <string>uni1F50</string>
+      <string>uni1F51</string>
+      <string>uni1F52</string>
+      <string>uni1F53</string>
+      <string>uni1F54</string>
+      <string>uni1F55</string>
+      <string>uni1F56</string>
+      <string>uni1F57</string>
+      <string>uni1F59</string>
+      <string>uni1F5B</string>
+      <string>uni1F5D</string>
+      <string>uni1F5F</string>
+      <string>uni1F60</string>
+      <string>uni1F61</string>
+      <string>uni1F62</string>
+      <string>uni1F63</string>
+      <string>uni1F64</string>
+      <string>uni1F65</string>
+      <string>uni1F66</string>
+      <string>uni1F67</string>
+      <string>uni1F68</string>
+      <string>uni1F69</string>
+      <string>uni1F6A</string>
+      <string>uni1F6B</string>
+      <string>uni1F6C</string>
+      <string>uni1F6D</string>
+      <string>uni1F6E</string>
+      <string>uni1F6F</string>
+      <string>uni1F70</string>
+      <string>uni1F71</string>
+      <string>uni1F72</string>
+      <string>uni1F73</string>
+      <string>uni1F74</string>
+      <string>uni1F75</string>
+      <string>uni1F76</string>
+      <string>uni1F77</string>
+      <string>uni1F78</string>
+      <string>uni1F79</string>
+      <string>uni1F7A</string>
+      <string>uni1F7B</string>
+      <string>uni1F7C</string>
+      <string>uni1F7D</string>
+      <string>uni1F80</string>
+      <string>uni1F81</string>
+      <string>uni1F82</string>
+      <string>uni1F83</string>
+      <string>uni1F84</string>
+      <string>uni1F85</string>
+      <string>uni1F86</string>
+      <string>uni1F87</string>
+      <string>uni1F88</string>
+      <string>uni1F89</string>
+      <string>uni1F8A</string>
+      <string>uni1F8B</string>
+      <string>uni1F8C</string>
+      <string>uni1F8D</string>
+      <string>uni1F8E</string>
+      <string>uni1F8F</string>
+      <string>uni1F90</string>
+      <string>uni1F91</string>
+      <string>uni1F92</string>
+      <string>uni1F93</string>
+      <string>uni1F94</string>
+      <string>uni1F95</string>
+      <string>uni1F96</string>
+      <string>uni1F97</string>
+      <string>uni1F98</string>
+      <string>uni1F99</string>
+      <string>uni1F9A</string>
+      <string>uni1F9B</string>
+      <string>uni1F9C</string>
+      <string>uni1F9D</string>
+      <string>uni1F9E</string>
+      <string>uni1F9F</string>
+      <string>uni1FA0</string>
+      <string>uni1FA1</string>
+      <string>uni1FA2</string>
+      <string>uni1FA3</string>
+      <string>uni1FA4</string>
+      <string>uni1FA5</string>
+      <string>uni1FA6</string>
+      <string>uni1FA7</string>
+      <string>uni1FA8</string>
+      <string>uni1FA9</string>
+      <string>uni1FAA</string>
+      <string>uni1FAB</string>
+      <string>uni1FAC</string>
+      <string>uni1FAD</string>
+      <string>uni1FAE</string>
+      <string>uni1FAF</string>
+      <string>uni1FB0</string>
+      <string>uni1FB1</string>
+      <string>uni1FB2</string>
+      <string>uni1FB3</string>
+      <string>uni1FB4</string>
+      <string>uni1FB6</string>
+      <string>uni1FB7</string>
+      <string>uni1FB8</string>
+      <string>uni1FB9</string>
+      <string>uni1FBA</string>
+      <string>uni1FBB</string>
+      <string>uni1FBC</string>
+      <string>uni1FBD</string>
+      <string>uni1FBE</string>
+      <string>uni1FBF</string>
+      <string>uni1FC0</string>
+      <string>uni1FC1</string>
+      <string>uni1FC2</string>
+      <string>uni1FC3</string>
+      <string>uni1FC4</string>
+      <string>uni1FC6</string>
+      <string>uni1FC7</string>
+      <string>uni1FC8</string>
+      <string>uni1FC9</string>
+      <string>uni1FCA</string>
+      <string>uni1FCB</string>
+      <string>uni1FCC</string>
+      <string>uni1FCD</string>
+      <string>uni1FCE</string>
+      <string>uni1FCF</string>
+      <string>uni1FD0</string>
+      <string>uni1FD1</string>
+      <string>uni1FD2</string>
+      <string>uni1FD3</string>
+      <string>uni1FD6</string>
+      <string>uni1FD7</string>
+      <string>uni1FD8</string>
+      <string>uni1FD9</string>
+      <string>uni1FDA</string>
+      <string>uni1FDB</string>
+      <string>uni1FDD</string>
+      <string>uni1FDE</string>
+      <string>uni1FDF</string>
+      <string>uni1FE0</string>
+      <string>uni1FE1</string>
+      <string>uni1FE2</string>
+      <string>uni1FE3</string>
+      <string>uni1FE4</string>
+      <string>uni1FE5</string>
+      <string>uni1FE6</string>
+      <string>uni1FE7</string>
+      <string>uni1FE8</string>
+      <string>uni1FE9</string>
+      <string>uni1FEA</string>
+      <string>uni1FEB</string>
+      <string>uni1FEC</string>
+      <string>uni1FED</string>
+      <string>uni1FEE</string>
+      <string>uni1FEF</string>
+      <string>uni1FF2</string>
+      <string>uni1FF3</string>
+      <string>uni1FF4</string>
+      <string>uni1FF6</string>
+      <string>uni1FF7</string>
+      <string>uni1FF8</string>
+      <string>uni1FF9</string>
+      <string>uni1FFA</string>
+      <string>uni1FFB</string>
+      <string>uni1FFC</string>
+      <string>uni1FFD</string>
+      <string>uni1FFE</string>
+      <string>uni2007</string>
+      <string>uni2008</string>
+      <string>uni2009</string>
+      <string>uni200A</string>
+      <string>uni200B</string>
+      <string>uni2010</string>
+      <string>figuredash</string>
+      <string>endash</string>
+      <string>emdash</string>
+      <string>uni2015</string>
+      <string>quoteleft</string>
+      <string>quoteright</string>
+      <string>quotesinglbase</string>
+      <string>quotedblleft</string>
+      <string>quotedblright</string>
+      <string>quotedblbase</string>
+      <string>dagger</string>
+      <string>daggerdbl</string>
+      <string>bullet</string>
+      <string>ellipsis</string>
+      <string>perthousand</string>
+      <string>minute</string>
+      <string>second</string>
+      <string>guilsinglleft</string>
+      <string>guilsinglright</string>
+      <string>uni203E</string>
+      <string>fraction</string>
+      <string>uni2052</string>
+      <string>uni2070</string>
+      <string>uni2074</string>
+      <string>uni2075</string>
+      <string>uni2076</string>
+      <string>uni2077</string>
+      <string>uni2078</string>
+      <string>uni2079</string>
+      <string>uni2080</string>
+      <string>uni2081</string>
+      <string>uni2082</string>
+      <string>uni2083</string>
+      <string>uni2084</string>
+      <string>uni2085</string>
+      <string>uni2086</string>
+      <string>uni2087</string>
+      <string>uni2088</string>
+      <string>uni2089</string>
+      <string>colonmonetary</string>
+      <string>franc</string>
+      <string>lira</string>
+      <string>uni20A6</string>
+      <string>peseta</string>
+      <string>uni20A9</string>
+      <string>dong</string>
+      <string>Euro</string>
+      <string>uni20AD</string>
+      <string>uni20AE</string>
+      <string>uni20B1</string>
+      <string>uni20B2</string>
+      <string>uni20B4</string>
+      <string>uni20B5</string>
+      <string>uni20B8</string>
+      <string>uni20B9</string>
+      <string>uni20BA</string>
+      <string>uni20BC</string>
+      <string>uni20BD</string>
+      <string>uni2113</string>
+      <string>uni2116</string>
+      <string>trademark</string>
+      <string>uni2126</string>
+      <string>uni212A</string>
+      <string>uni212B</string>
+      <string>estimated</string>
+      <string>uni2153</string>
+      <string>uni2154</string>
+      <string>oneeighth</string>
+      <string>threeeighths</string>
+      <string>fiveeighths</string>
+      <string>seveneighths</string>
+      <string>arrowleft</string>
+      <string>arrowup</string>
+      <string>arrowright</string>
+      <string>arrowdown</string>
+      <string>arrowboth</string>
+      <string>arrowupdn</string>
+      <string>uni2196</string>
+      <string>uni2197</string>
+      <string>uni2198</string>
+      <string>uni2199</string>
+      <string>uni219A</string>
+      <string>uni219B</string>
+      <string>uni21AE</string>
+      <string>partialdiff</string>
+      <string>emptyset</string>
+      <string>uni2206</string>
+      <string>product</string>
+      <string>summation</string>
+      <string>minus</string>
+      <string>uni2215</string>
+      <string>uni2219</string>
+      <string>radical</string>
+      <string>infinity</string>
+      <string>integral</string>
+      <string>approxequal</string>
+      <string>uni2249</string>
+      <string>notequal</string>
+      <string>lessequal</string>
+      <string>greaterequal</string>
+      <string>uni226E</string>
+      <string>uni226F</string>
+      <string>uni2270</string>
+      <string>uni2271</string>
+      <string>filledbox</string>
+      <string>uni25A1</string>
+      <string>triagup</string>
+      <string>uni25B3</string>
+      <string>uni25B6</string>
+      <string>uni25B7</string>
+      <string>triagdn</string>
+      <string>uni25BD</string>
+      <string>uni25C0</string>
+      <string>uni25C1</string>
+      <string>uni25C6</string>
+      <string>uni25C7</string>
+      <string>lozenge</string>
+      <string>uni27E8</string>
+      <string>uni27E9</string>
+      <string>uniA78B</string>
+      <string>uniA78C</string>
+      <string>fi</string>
+      <string>fl</string>
+      <string>Iacute_J.loclNLD</string>
+      <string>A.ss01</string>
+      <string>Aacute.ss01</string>
+      <string>Abreve.ss01</string>
+      <string>uni1EAE.ss01</string>
+      <string>uni1EB6.ss01</string>
+      <string>uni1EB0.ss01</string>
+      <string>uni1EB2.ss01</string>
+      <string>uni1EB4.ss01</string>
+      <string>uni01CD.ss01</string>
+      <string>Acircumflex.ss01</string>
+      <string>uni1EA4.ss01</string>
+      <string>uni1EAC.ss01</string>
+      <string>uni1EA6.ss01</string>
+      <string>uni1EA8.ss01</string>
+      <string>uni1EAA.ss01</string>
+      <string>uni0200.ss01</string>
+      <string>Adieresis.ss01</string>
+      <string>uni1EA0.ss01</string>
+      <string>Agrave.ss01</string>
+      <string>uni1EA2.ss01</string>
+      <string>uni0202.ss01</string>
+      <string>Amacron.ss01</string>
+      <string>Aogonek.ss01</string>
+      <string>Aring.ss01</string>
+      <string>Aringacute.ss01</string>
+      <string>Atilde.ss01</string>
+      <string>AE.ss01</string>
+      <string>AEacute.ss01</string>
+      <string>uni01C4.ss01</string>
+      <string>uni01C5.ss01</string>
+      <string>E.ss01</string>
+      <string>Eacute.ss01</string>
+      <string>Ebreve.ss01</string>
+      <string>Ecaron.ss01</string>
+      <string>uni1E1C.ss01</string>
+      <string>Ecircumflex.ss01</string>
+      <string>uni1EBE.ss01</string>
+      <string>uni1EC6.ss01</string>
+      <string>uni1EC0.ss01</string>
+      <string>uni1EC2.ss01</string>
+      <string>uni1EC4.ss01</string>
+      <string>uni0204.ss01</string>
+      <string>Edieresis.ss01</string>
+      <string>Edotaccent.ss01</string>
+      <string>uni1EB8.ss01</string>
+      <string>Egrave.ss01</string>
+      <string>uni1EBA.ss01</string>
+      <string>uni0206.ss01</string>
+      <string>Emacron.ss01</string>
+      <string>uni1E16.ss01</string>
+      <string>uni1E14.ss01</string>
+      <string>Eogonek.ss01</string>
+      <string>uni1EBC.ss01</string>
+      <string>F.ss01</string>
+      <string>G.ss01</string>
+      <string>Gbreve.ss01</string>
+      <string>Gcaron.ss01</string>
+      <string>Gcircumflex.ss01</string>
+      <string>Gcommaaccent.ss01</string>
+      <string>Gdotaccent.ss01</string>
+      <string>uni1E20.ss01</string>
+      <string>uni01E4.ss01</string>
+      <string>I.ss01</string>
+      <string>IJ.ss01</string>
+      <string>Iacute.ss01</string>
+      <string>Iacute_J.loclNLD.ss01</string>
+      <string>Ibreve.ss01</string>
+      <string>Icircumflex.ss01</string>
+      <string>uni0208.ss01</string>
+      <string>Idieresis.ss01</string>
+      <string>uni1E2E.ss01</string>
+      <string>Idotaccent.ss01</string>
+      <string>uni1ECA.ss01</string>
+      <string>Igrave.ss01</string>
+      <string>uni1EC8.ss01</string>
+      <string>uni020A.ss01</string>
+      <string>Imacron.ss01</string>
+      <string>Iogonek.ss01</string>
+      <string>Itilde.ss01</string>
+      <string>J.ss01</string>
+      <string>Jcircumflex.ss01</string>
+      <string>uni01C7.ss01</string>
+      <string>M.ss01</string>
+      <string>uni1E42.ss01</string>
+      <string>N.ss01</string>
+      <string>uni01CA.ss01</string>
+      <string>Nacute.ss01</string>
+      <string>Ncaron.ss01</string>
+      <string>Ncommaaccent.ss01</string>
+      <string>uni1E44.ss01</string>
+      <string>uni1E46.ss01</string>
+      <string>Eng.ss01</string>
+      <string>uni01CB.ss01</string>
+      <string>uni1E48.ss01</string>
+      <string>Ntilde.ss01</string>
+      <string>Q.ss01</string>
+      <string>uni018F.ss01</string>
+      <string>T.ss01</string>
+      <string>Tbar.ss01</string>
+      <string>Tcaron.ss01</string>
+      <string>uni0162.ss01</string>
+      <string>uni021A.ss01</string>
+      <string>uni1E6C.ss01</string>
+      <string>uni1E6E.ss01</string>
+      <string>U.ss01</string>
+      <string>Uacute.ss01</string>
+      <string>Ubreve.ss01</string>
+      <string>uni01D3.ss01</string>
+      <string>Ucircumflex.ss01</string>
+      <string>uni0214.ss01</string>
+      <string>Udieresis.ss01</string>
+      <string>uni1EE4.ss01</string>
+      <string>Ugrave.ss01</string>
+      <string>uni1EE6.ss01</string>
+      <string>Uhorn.ss01</string>
+      <string>uni1EE8.ss01</string>
+      <string>uni1EF0.ss01</string>
+      <string>uni1EEA.ss01</string>
+      <string>uni1EEC.ss01</string>
+      <string>uni1EEE.ss01</string>
+      <string>Uhungarumlaut.ss01</string>
+      <string>uni0216.ss01</string>
+      <string>Umacron.ss01</string>
+      <string>uni1E7A.ss01</string>
+      <string>Uogonek.ss01</string>
+      <string>Uring.ss01</string>
+      <string>Utilde.ss01</string>
+      <string>uni1E78.ss01</string>
+      <string>W.ss01</string>
+      <string>Wacute.ss01</string>
+      <string>Wcircumflex.ss01</string>
+      <string>Wdieresis.ss01</string>
+      <string>Wgrave.ss01</string>
+      <string>Y.ss01</string>
+      <string>Yacute.ss01</string>
+      <string>Ycircumflex.ss01</string>
+      <string>Ydieresis.ss01</string>
+      <string>uni1E8E.ss01</string>
+      <string>uni1EF4.ss01</string>
+      <string>Ygrave.ss01</string>
+      <string>uni1EF6.ss01</string>
+      <string>uni0232.ss01</string>
+      <string>uni1EF8.ss01</string>
+      <string>Z.ss01</string>
+      <string>Zacute.ss01</string>
+      <string>Zcaron.ss01</string>
+      <string>Zdotaccent.ss01</string>
+      <string>uni1E92.ss01</string>
+      <string>i.loclTRK</string>
+      <string>iacute_j.loclNLD</string>
+      <string>a.ss01</string>
+      <string>aacute.ss01</string>
+      <string>abreve.ss01</string>
+      <string>uni1EAF.ss01</string>
+      <string>uni1EB7.ss01</string>
+      <string>uni1EB1.ss01</string>
+      <string>uni1EB3.ss01</string>
+      <string>uni1EB5.ss01</string>
+      <string>uni01CE.ss01</string>
+      <string>acircumflex.ss01</string>
+      <string>uni1EA5.ss01</string>
+      <string>uni1EAD.ss01</string>
+      <string>uni1EA7.ss01</string>
+      <string>uni1EA9.ss01</string>
+      <string>uni1EAB.ss01</string>
+      <string>uni0201.ss01</string>
+      <string>adieresis.ss01</string>
+      <string>uni1EA1.ss01</string>
+      <string>agrave.ss01</string>
+      <string>uni1EA3.ss01</string>
+      <string>uni0203.ss01</string>
+      <string>amacron.ss01</string>
+      <string>aogonek.ss01</string>
+      <string>aring.ss01</string>
+      <string>aringacute.ss01</string>
+      <string>atilde.ss01</string>
+      <string>ae.ss01</string>
+      <string>aeacute.ss01</string>
+      <string>uni01C6.ss01</string>
+      <string>e.ss01</string>
+      <string>eacute.ss01</string>
+      <string>ebreve.ss01</string>
+      <string>ecaron.ss01</string>
+      <string>uni1E1D.ss01</string>
+      <string>ecircumflex.ss01</string>
+      <string>uni1EBF.ss01</string>
+      <string>uni1EC7.ss01</string>
+      <string>uni1EC1.ss01</string>
+      <string>uni1EC3.ss01</string>
+      <string>uni1EC5.ss01</string>
+      <string>uni0205.ss01</string>
+      <string>edieresis.ss01</string>
+      <string>edotaccent.ss01</string>
+      <string>uni1EB9.ss01</string>
+      <string>egrave.ss01</string>
+      <string>uni1EBB.ss01</string>
+      <string>uni0207.ss01</string>
+      <string>emacron.ss01</string>
+      <string>uni1E17.ss01</string>
+      <string>uni1E15.ss01</string>
+      <string>eogonek.ss01</string>
+      <string>uni1EBD.ss01</string>
+      <string>uni0259.ss01</string>
+      <string>f.ss01</string>
+      <string>l.ss01</string>
+      <string>lacute.ss01</string>
+      <string>lcaron.ss01</string>
+      <string>lcommaaccent.ss01</string>
+      <string>ldot.ss01</string>
+      <string>uni1E37.ss01</string>
+      <string>uni01C9.ss01</string>
+      <string>uni1E3B.ss01</string>
+      <string>lslash.ss01</string>
+      <string>oe.ss01</string>
+      <string>t.ss01</string>
+      <string>tbar.ss01</string>
+      <string>tcaron.ss01</string>
+      <string>uni0163.ss01</string>
+      <string>uni021B.ss01</string>
+      <string>uni1E97.ss01</string>
+      <string>uni1E6D.ss01</string>
+      <string>uni1E6F.ss01</string>
+      <string>w.ss01</string>
+      <string>wacute.ss01</string>
+      <string>wcircumflex.ss01</string>
+      <string>wdieresis.ss01</string>
+      <string>wgrave.ss01</string>
+      <string>y.ss01</string>
+      <string>yacute.ss01</string>
+      <string>ycircumflex.ss01</string>
+      <string>ydieresis.ss01</string>
+      <string>uni1EF5.ss01</string>
+      <string>ygrave.ss01</string>
+      <string>uni1EF7.ss01</string>
+      <string>uni0233.ss01</string>
+      <string>uni1EF9.ss01</string>
+      <string>z.ss01</string>
+      <string>zacute.ss01</string>
+      <string>zcaron.ss01</string>
+      <string>zdotaccent.ss01</string>
+      <string>uni1E93.ss01</string>
+      <string>T_h</string>
+      <string>fi.ss01</string>
+      <string>fl.ss01</string>
+      <string>a.sc</string>
+      <string>aacute.sc</string>
+      <string>abreve.sc</string>
+      <string>uni1EAF.sc</string>
+      <string>uni1EB7.sc</string>
+      <string>uni1EB1.sc</string>
+      <string>uni1EB3.sc</string>
+      <string>uni1EB5.sc</string>
+      <string>uni01CE.sc</string>
+      <string>acircumflex.sc</string>
+      <string>uni1EA5.sc</string>
+      <string>uni1EAD.sc</string>
+      <string>uni1EA7.sc</string>
+      <string>uni1EA9.sc</string>
+      <string>uni1EAB.sc</string>
+      <string>uni0201.sc</string>
+      <string>adieresis.sc</string>
+      <string>uni1EA1.sc</string>
+      <string>agrave.sc</string>
+      <string>uni1EA3.sc</string>
+      <string>uni0203.sc</string>
+      <string>amacron.sc</string>
+      <string>aogonek.sc</string>
+      <string>aring.sc</string>
+      <string>aringacute.sc</string>
+      <string>atilde.sc</string>
+      <string>ae.sc</string>
+      <string>aeacute.sc</string>
+      <string>b.sc</string>
+      <string>c.sc</string>
+      <string>cacute.sc</string>
+      <string>ccaron.sc</string>
+      <string>ccedilla.sc</string>
+      <string>uni1E09.sc</string>
+      <string>ccircumflex.sc</string>
+      <string>cdotaccent.sc</string>
+      <string>d.sc</string>
+      <string>eth.sc</string>
+      <string>dcaron.sc</string>
+      <string>dcroat.sc</string>
+      <string>uni1E0D.sc</string>
+      <string>uni1E0F.sc</string>
+      <string>uni01C6.sc</string>
+      <string>e.sc</string>
+      <string>eacute.sc</string>
+      <string>ebreve.sc</string>
+      <string>ecaron.sc</string>
+      <string>uni1E1D.sc</string>
+      <string>ecircumflex.sc</string>
+      <string>uni1EBF.sc</string>
+      <string>uni1EC7.sc</string>
+      <string>uni1EC1.sc</string>
+      <string>uni1EC3.sc</string>
+      <string>uni1EC5.sc</string>
+      <string>uni0205.sc</string>
+      <string>edieresis.sc</string>
+      <string>edotaccent.sc</string>
+      <string>uni1EB9.sc</string>
+      <string>egrave.sc</string>
+      <string>uni1EBB.sc</string>
+      <string>uni0207.sc</string>
+      <string>emacron.sc</string>
+      <string>uni1E17.sc</string>
+      <string>uni1E15.sc</string>
+      <string>eogonek.sc</string>
+      <string>uni1EBD.sc</string>
+      <string>uni0259.sc</string>
+      <string>uni0292.sc</string>
+      <string>uni01EF.sc</string>
+      <string>f.sc</string>
+      <string>g.sc</string>
+      <string>gbreve.sc</string>
+      <string>gcaron.sc</string>
+      <string>gcircumflex.sc</string>
+      <string>gcommaaccent.sc</string>
+      <string>gdotaccent.sc</string>
+      <string>uni1E21.sc</string>
+      <string>uni01E5.sc</string>
+      <string>h.sc</string>
+      <string>hbar.sc</string>
+      <string>uni1E2B.sc</string>
+      <string>uni021F.sc</string>
+      <string>hcircumflex.sc</string>
+      <string>uni1E25.sc</string>
+      <string>i.sc</string>
+      <string>dotlessi.sc</string>
+      <string>iacute.sc</string>
+      <string>iacute_j.loclNLD.sc</string>
+      <string>ibreve.sc</string>
+      <string>icircumflex.sc</string>
+      <string>uni0209.sc</string>
+      <string>idieresis.sc</string>
+      <string>uni1E2F.sc</string>
+      <string>i.sc.loclTRK</string>
+      <string>uni1ECB.sc</string>
+      <string>igrave.sc</string>
+      <string>uni1EC9.sc</string>
+      <string>uni020B.sc</string>
+      <string>ij.sc</string>
+      <string>imacron.sc</string>
+      <string>iogonek.sc</string>
+      <string>itilde.sc</string>
+      <string>j.sc</string>
+      <string>jcircumflex.sc</string>
+      <string>k.sc</string>
+      <string>uni01E9.sc</string>
+      <string>kcommaaccent.sc</string>
+      <string>kgreenlandic.sc</string>
+      <string>l.sc</string>
+      <string>lacute.sc</string>
+      <string>lcaron.sc</string>
+      <string>lcommaaccent.sc</string>
+      <string>ldot.sc</string>
+      <string>uni1E37.sc</string>
+      <string>uni01C9.sc</string>
+      <string>uni1E3B.sc</string>
+      <string>lslash.sc</string>
+      <string>m.sc</string>
+      <string>uni1E43.sc</string>
+      <string>n.sc</string>
+      <string>nacute.sc</string>
+      <string>ncaron.sc</string>
+      <string>ncommaaccent.sc</string>
+      <string>uni1E45.sc</string>
+      <string>uni1E47.sc</string>
+      <string>eng.sc</string>
+      <string>uni01CC.sc</string>
+      <string>uni1E49.sc</string>
+      <string>ntilde.sc</string>
+      <string>o.sc</string>
+      <string>oacute.sc</string>
+      <string>obreve.sc</string>
+      <string>ocircumflex.sc</string>
+      <string>uni1ED1.sc</string>
+      <string>uni1ED9.sc</string>
+      <string>uni1ED3.sc</string>
+      <string>uni1ED5.sc</string>
+      <string>uni1ED7.sc</string>
+      <string>uni020D.sc</string>
+      <string>odieresis.sc</string>
+      <string>uni022B.sc</string>
+      <string>uni0231.sc</string>
+      <string>uni1ECD.sc</string>
+      <string>ograve.sc</string>
+      <string>uni1ECF.sc</string>
+      <string>ohorn.sc</string>
+      <string>uni1EDB.sc</string>
+      <string>uni1EE3.sc</string>
+      <string>uni1EDD.sc</string>
+      <string>uni1EDF.sc</string>
+      <string>uni1EE1.sc</string>
+      <string>ohungarumlaut.sc</string>
+      <string>uni020F.sc</string>
+      <string>omacron.sc</string>
+      <string>uni1E53.sc</string>
+      <string>uni1E51.sc</string>
+      <string>uni01EB.sc</string>
+      <string>oslash.sc</string>
+      <string>oslashacute.sc</string>
+      <string>otilde.sc</string>
+      <string>uni1E4D.sc</string>
+      <string>uni1E4F.sc</string>
+      <string>uni022D.sc</string>
+      <string>oe.sc</string>
+      <string>p.sc</string>
+      <string>thorn.sc</string>
+      <string>q.sc</string>
+      <string>r.sc</string>
+      <string>racute.sc</string>
+      <string>rcaron.sc</string>
+      <string>rcommaaccent.sc</string>
+      <string>uni0211.sc</string>
+      <string>uni1E5B.sc</string>
+      <string>uni0213.sc</string>
+      <string>uni1E5F.sc</string>
+      <string>s.sc</string>
+      <string>sacute.sc</string>
+      <string>uni1E65.sc</string>
+      <string>uniA78C.sc</string>
+      <string>scaron.sc</string>
+      <string>uni1E67.sc</string>
+      <string>scedilla.sc</string>
+      <string>scircumflex.sc</string>
+      <string>scommaaccent.sc</string>
+      <string>uni1E61.sc</string>
+      <string>uni1E63.sc</string>
+      <string>uni1E69.sc</string>
+      <string>germandbls.sc</string>
+      <string>t.sc</string>
+      <string>tbar.sc</string>
+      <string>tcaron.sc</string>
+      <string>uni0163.sc</string>
+      <string>uni021B.sc</string>
+      <string>uni1E97.sc</string>
+      <string>uni1E6D.sc</string>
+      <string>uni1E6F.sc</string>
+      <string>u.sc</string>
+      <string>uacute.sc</string>
+      <string>ubreve.sc</string>
+      <string>uni01D4.sc</string>
+      <string>ucircumflex.sc</string>
+      <string>uni0215.sc</string>
+      <string>udieresis.sc</string>
+      <string>uni1EE5.sc</string>
+      <string>ugrave.sc</string>
+      <string>uni1EE7.sc</string>
+      <string>uhorn.sc</string>
+      <string>uni1EE9.sc</string>
+      <string>uni1EF1.sc</string>
+      <string>uni1EEB.sc</string>
+      <string>uni1EED.sc</string>
+      <string>uni1EEF.sc</string>
+      <string>uhungarumlaut.sc</string>
+      <string>uni0217.sc</string>
+      <string>umacron.sc</string>
+      <string>uni1E7B.sc</string>
+      <string>uogonek.sc</string>
+      <string>uring.sc</string>
+      <string>utilde.sc</string>
+      <string>uni1E79.sc</string>
+      <string>v.sc</string>
+      <string>w.sc</string>
+      <string>wacute.sc</string>
+      <string>wcircumflex.sc</string>
+      <string>wdieresis.sc</string>
+      <string>wgrave.sc</string>
+      <string>x.sc</string>
+      <string>y.sc</string>
+      <string>yacute.sc</string>
+      <string>ycircumflex.sc</string>
+      <string>ydieresis.sc</string>
+      <string>uni1E8F.sc</string>
+      <string>uni1EF5.sc</string>
+      <string>ygrave.sc</string>
+      <string>uni1EF7.sc</string>
+      <string>uni0233.sc</string>
+      <string>uni1EF9.sc</string>
+      <string>z.sc</string>
+      <string>zacute.sc</string>
+      <string>zcaron.sc</string>
+      <string>zdotaccent.sc</string>
+      <string>uni1E93.sc</string>
+      <string>a.sc.ss01</string>
+      <string>aacute.sc.ss01</string>
+      <string>abreve.sc.ss01</string>
+      <string>uni1EAF.sc.ss01</string>
+      <string>uni1EB7.sc.ss01</string>
+      <string>uni1EB1.sc.ss01</string>
+      <string>uni1EB3.sc.ss01</string>
+      <string>uni1EB5.sc.ss01</string>
+      <string>uni01CE.sc.ss01</string>
+      <string>acircumflex.sc.ss01</string>
+      <string>uni1EA5.sc.ss01</string>
+      <string>uni1EAD.sc.ss01</string>
+      <string>uni1EA7.sc.ss01</string>
+      <string>uni1EA9.sc.ss01</string>
+      <string>uni1EAB.sc.ss01</string>
+      <string>uni0201.sc.ss01</string>
+      <string>adieresis.sc.ss01</string>
+      <string>uni1EA1.sc.ss01</string>
+      <string>agrave.sc.ss01</string>
+      <string>uni1EA3.sc.ss01</string>
+      <string>uni0203.sc.ss01</string>
+      <string>amacron.sc.ss01</string>
+      <string>aogonek.sc.ss01</string>
+      <string>aring.sc.ss01</string>
+      <string>aringacute.sc.ss01</string>
+      <string>atilde.sc.ss01</string>
+      <string>ae.sc.ss01</string>
+      <string>aeacute.sc.ss01</string>
+      <string>uni01C6.sc.ss01</string>
+      <string>e.sc.ss01</string>
+      <string>eacute.sc.ss01</string>
+      <string>ebreve.sc.ss01</string>
+      <string>ecaron.sc.ss01</string>
+      <string>uni1E1D.sc.ss01</string>
+      <string>ecircumflex.sc.ss01</string>
+      <string>uni1EBF.sc.ss01</string>
+      <string>uni1EC7.sc.ss01</string>
+      <string>uni1EC1.sc.ss01</string>
+      <string>uni1EC3.sc.ss01</string>
+      <string>uni1EC5.sc.ss01</string>
+      <string>uni0205.sc.ss01</string>
+      <string>edieresis.sc.ss01</string>
+      <string>edotaccent.sc.ss01</string>
+      <string>uni1EB9.sc.ss01</string>
+      <string>egrave.sc.ss01</string>
+      <string>uni1EBB.sc.ss01</string>
+      <string>uni0207.sc.ss01</string>
+      <string>emacron.sc.ss01</string>
+      <string>uni1E17.sc.ss01</string>
+      <string>uni1E15.sc.ss01</string>
+      <string>eogonek.sc.ss01</string>
+      <string>uni1EBD.sc.ss01</string>
+      <string>uni0259.sc.ss01</string>
+      <string>f.sc.ss01</string>
+      <string>g.sc.ss01</string>
+      <string>gbreve.sc.ss01</string>
+      <string>gcaron.sc.ss01</string>
+      <string>gcircumflex.sc.ss01</string>
+      <string>gcommaaccent.sc.ss01</string>
+      <string>gdotaccent.sc.ss01</string>
+      <string>uni1E21.sc.ss01</string>
+      <string>uni01E5.sc.ss01</string>
+      <string>i.sc.ss01</string>
+      <string>dotlessi.sc.ss01</string>
+      <string>iacute.sc.ss01</string>
+      <string>iacute_j.loclNLD.sc.ss01</string>
+      <string>ibreve.sc.ss01</string>
+      <string>icircumflex.sc.ss01</string>
+      <string>uni0209.sc.ss01</string>
+      <string>idieresis.sc.ss01</string>
+      <string>uni1E2F.sc.ss01</string>
+      <string>uni1ECB.sc.ss01</string>
+      <string>igrave.sc.ss01</string>
+      <string>uni1EC9.sc.ss01</string>
+      <string>uni020B.sc.ss01</string>
+      <string>ij.sc.ss01</string>
+      <string>imacron.sc.ss01</string>
+      <string>iogonek.sc.ss01</string>
+      <string>itilde.sc.ss01</string>
+      <string>j.sc.ss01</string>
+      <string>jcircumflex.sc.ss01</string>
+      <string>uni01C9.sc.ss01</string>
+      <string>m.sc.ss01</string>
+      <string>uni1E43.sc.ss01</string>
+      <string>n.sc.ss01</string>
+      <string>nacute.sc.ss01</string>
+      <string>ncaron.sc.ss01</string>
+      <string>ncommaaccent.sc.ss01</string>
+      <string>uni1E45.sc.ss01</string>
+      <string>uni1E47.sc.ss01</string>
+      <string>eng.sc.ss01</string>
+      <string>uni01CC.sc.ss01</string>
+      <string>uni1E49.sc.ss01</string>
+      <string>ntilde.sc.ss01</string>
+      <string>q.sc.ss01</string>
+      <string>t.sc.ss01</string>
+      <string>tbar.sc.ss01</string>
+      <string>tcaron.sc.ss01</string>
+      <string>uni0163.sc.ss01</string>
+      <string>uni021B.sc.ss01</string>
+      <string>uni1E97.sc.ss01</string>
+      <string>uni1E6D.sc.ss01</string>
+      <string>uni1E6F.sc.ss01</string>
+      <string>u.sc.ss01</string>
+      <string>uacute.sc.ss01</string>
+      <string>ubreve.sc.ss01</string>
+      <string>uni01D4.sc.ss01</string>
+      <string>ucircumflex.sc.ss01</string>
+      <string>uni0215.sc.ss01</string>
+      <string>udieresis.sc.ss01</string>
+      <string>uni1EE5.sc.ss01</string>
+      <string>ugrave.sc.ss01</string>
+      <string>uni1EE7.sc.ss01</string>
+      <string>uhorn.sc.ss01</string>
+      <string>uni1EE9.sc.ss01</string>
+      <string>uni1EF1.sc.ss01</string>
+      <string>uni1EEB.sc.ss01</string>
+      <string>uni1EED.sc.ss01</string>
+      <string>uni1EEF.sc.ss01</string>
+      <string>uhungarumlaut.sc.ss01</string>
+      <string>uni0217.sc.ss01</string>
+      <string>umacron.sc.ss01</string>
+      <string>uni1E7B.sc.ss01</string>
+      <string>uogonek.sc.ss01</string>
+      <string>uring.sc.ss01</string>
+      <string>utilde.sc.ss01</string>
+      <string>uni1E79.sc.ss01</string>
+      <string>w.sc.ss01</string>
+      <string>wacute.sc.ss01</string>
+      <string>wcircumflex.sc.ss01</string>
+      <string>wdieresis.sc.ss01</string>
+      <string>wgrave.sc.ss01</string>
+      <string>y.sc.ss01</string>
+      <string>yacute.sc.ss01</string>
+      <string>ycircumflex.sc.ss01</string>
+      <string>ydieresis.sc.ss01</string>
+      <string>uni1E8F.sc.ss01</string>
+      <string>uni1EF5.sc.ss01</string>
+      <string>ygrave.sc.ss01</string>
+      <string>uni1EF7.sc.ss01</string>
+      <string>uni0233.sc.ss01</string>
+      <string>uni1EF9.sc.ss01</string>
+      <string>z.sc.ss01</string>
+      <string>zacute.sc.ss01</string>
+      <string>zcaron.sc.ss01</string>
+      <string>zdotaccent.sc.ss01</string>
+      <string>uni1E93.sc.ss01</string>
+      <string>uni0414.loclBGR</string>
+      <string>uni041B.loclBGR</string>
+      <string>uni0424.loclBGR</string>
+      <string>uni0492.loclBSH</string>
+      <string>uni0498.loclBSH</string>
+      <string>uni04AA.loclBSH</string>
+      <string>uni04AA.loclCHU</string>
+      <string>uni0410.ss01</string>
+      <string>uni0414.ss01</string>
+      <string>uni0415.ss01</string>
+      <string>uni0400.ss01</string>
+      <string>uni0401.ss01</string>
+      <string>uni0418.ss01</string>
+      <string>uni0419.ss01</string>
+      <string>uni048A.ss01</string>
+      <string>uni040D.ss01</string>
+      <string>uni041B.ss01</string>
+      <string>uni0420.ss01</string>
+      <string>uni0422.ss01</string>
+      <string>uni0423.ss01</string>
+      <string>uni040E.ss01</string>
+      <string>uni0424.ss01</string>
+      <string>uni042C.ss01</string>
+      <string>uni042A.ss01</string>
+      <string>uni042B.ss01</string>
+      <string>uni0409.ss01</string>
+      <string>uni040A.ss01</string>
+      <string>uni0408.ss01</string>
+      <string>uni0462.ss01</string>
+      <string>uni04AC.ss01</string>
+      <string>uni04D0.ss01</string>
+      <string>uni04D2.ss01</string>
+      <string>uni04D4.ss01</string>
+      <string>uni04D6.ss01</string>
+      <string>uni04E2.ss01</string>
+      <string>uni04E4.ss01</string>
+      <string>uni04EE.ss01</string>
+      <string>uni04F0.ss01</string>
+      <string>uni04F2.ss01</string>
+      <string>uni04F8.ss01</string>
+      <string>uni051A.ss01</string>
+      <string>uni048C.ss01</string>
+      <string>uni0432.loclBGR</string>
+      <string>uni0433.loclBGR</string>
+      <string>uni0434.loclBGR</string>
+      <string>uni0436.loclBGR</string>
+      <string>uni0437.loclBGR</string>
+      <string>uni0438.loclBGR</string>
+      <string>uni0439.loclBGR</string>
+      <string>uni045D.loclBGR</string>
+      <string>uni043A.loclBGR</string>
+      <string>uni043B.loclBGR</string>
+      <string>uni043D.loclBGR</string>
+      <string>uni043F.loclBGR</string>
+      <string>uni0442.loclBGR</string>
+      <string>uni0447.loclBGR</string>
+      <string>uni0446.loclBGR</string>
+      <string>uni0448.loclBGR</string>
+      <string>uni0449.loclBGR</string>
+      <string>uni044C.loclBGR</string>
+      <string>uni044A.loclBGR</string>
+      <string>uni044E.loclBGR</string>
+      <string>uni0493.loclBSH</string>
+      <string>uni0499.loclBSH</string>
+      <string>uni04AB.loclCHU</string>
+      <string>uni0453.loclMKD</string>
+      <string>uni0431.loclSRB</string>
+      <string>uni0433.loclSRB</string>
+      <string>uni0434.loclSRB</string>
+      <string>uni043F.loclSRB</string>
+      <string>uni0442.loclSRB</string>
+      <string>uni0430.ss01</string>
+      <string>uni0434.ss01</string>
+      <string>uni0435.ss01</string>
+      <string>uni0450.ss01</string>
+      <string>uni0451.ss01</string>
+      <string>uni0438.ss01</string>
+      <string>uni0439.ss01</string>
+      <string>uni048B.ss01</string>
+      <string>uni045D.ss01</string>
+      <string>uni0440.ss01</string>
+      <string>uni0442.ss01</string>
+      <string>uni0443.ss01</string>
+      <string>uni045E.ss01</string>
+      <string>uni044C.ss01</string>
+      <string>uni044A.ss01</string>
+      <string>uni044B.ss01</string>
+      <string>uni0459.ss01</string>
+      <string>uni045A.ss01</string>
+      <string>uni0463.ss01</string>
+      <string>uni04D1.ss01</string>
+      <string>uni04D3.ss01</string>
+      <string>uni04D5.ss01</string>
+      <string>uni04D7.ss01</string>
+      <string>uni04D9.ss01</string>
+      <string>uni04DB.ss01</string>
+      <string>uni04E3.ss01</string>
+      <string>uni04E5.ss01</string>
+      <string>uni04EF.ss01</string>
+      <string>uni04F1.ss01</string>
+      <string>uni04F3.ss01</string>
+      <string>uni04F9.ss01</string>
+      <string>uni048D.ss01</string>
+      <string>zero.osf</string>
+      <string>one.osf</string>
+      <string>two.osf</string>
+      <string>three.osf</string>
+      <string>four.osf</string>
+      <string>five.osf</string>
+      <string>six.osf</string>
+      <string>seven.osf</string>
+      <string>eight.osf</string>
+      <string>nine.osf</string>
+      <string>zero.sinf</string>
+      <string>one.sinf</string>
+      <string>two.sinf</string>
+      <string>three.sinf</string>
+      <string>four.sinf</string>
+      <string>five.sinf</string>
+      <string>six.sinf</string>
+      <string>seven.sinf</string>
+      <string>eight.sinf</string>
+      <string>nine.sinf</string>
+      <string>zero.tf</string>
+      <string>one.tf</string>
+      <string>two.tf</string>
+      <string>three.tf</string>
+      <string>four.tf</string>
+      <string>five.tf</string>
+      <string>six.tf</string>
+      <string>seven.tf</string>
+      <string>eight.tf</string>
+      <string>nine.tf</string>
+      <string>zero.tosf</string>
+      <string>one.tosf</string>
+      <string>two.tosf</string>
+      <string>three.tosf</string>
+      <string>four.tosf</string>
+      <string>five.tosf</string>
+      <string>six.tosf</string>
+      <string>seven.tosf</string>
+      <string>eight.tosf</string>
+      <string>nine.tosf</string>
+      <string>zero.dnom</string>
+      <string>one.dnom</string>
+      <string>two.dnom</string>
+      <string>three.dnom</string>
+      <string>four.dnom</string>
+      <string>five.dnom</string>
+      <string>six.dnom</string>
+      <string>seven.dnom</string>
+      <string>eight.dnom</string>
+      <string>nine.dnom</string>
+      <string>zero.numr</string>
+      <string>one.numr</string>
+      <string>two.numr</string>
+      <string>three.numr</string>
+      <string>four.numr</string>
+      <string>five.numr</string>
+      <string>six.numr</string>
+      <string>seven.numr</string>
+      <string>eight.numr</string>
+      <string>nine.numr</string>
+      <string>backslash.case</string>
+      <string>periodcentered.case</string>
+      <string>bullet.case</string>
+      <string>periodcentered.loclCAT.case</string>
+      <string>slash.case</string>
+      <string>periodcentered.loclCAT</string>
+      <string>braceleft.case</string>
+      <string>braceright.case</string>
+      <string>bracketleft.case</string>
+      <string>bracketright.case</string>
+      <string>parenleft.case</string>
+      <string>parenright.case</string>
+      <string>emdash.case</string>
+      <string>endash.case</string>
+      <string>hyphen.case</string>
+      <string>guillemotleft.case</string>
+      <string>guillemotright.case</string>
+      <string>guilsinglleft.case</string>
+      <string>guilsinglright.case</string>
+      <string>exclam.sc</string>
+      <string>exclamdown.sc</string>
+      <string>guillemotleft.sc</string>
+      <string>guillemotright.sc</string>
+      <string>guilsinglleft.sc</string>
+      <string>guilsinglright.sc</string>
+      <string>period.sc</string>
+      <string>question.sc</string>
+      <string>questiondown.sc</string>
+      <string>quotedbl.sc</string>
+      <string>quotedblbase.sc</string>
+      <string>quotedblleft.sc</string>
+      <string>quotedblright.sc</string>
+      <string>quoteleft.sc</string>
+      <string>quoteright.sc</string>
+      <string>quotesinglbase.sc</string>
+      <string>quotesingle.sc</string>
+      <string>arrowup.case</string>
+      <string>arrowright.case</string>
+      <string>arrowdown.case</string>
+      <string>arrowleft.case</string>
+      <string>at.case</string>
+      <string>uni2116.ss01</string>
+      <string>ampersand.sc</string>
+      <string>uni03080300</string>
+      <string>uni03080301</string>
+      <string>uni03080304</string>
+      <string>uni03070304</string>
+      <string>uni03000304</string>
+      <string>uni03010307</string>
+      <string>uni03010304</string>
+      <string>caroncomb.alt</string>
+      <string>uni030C0307</string>
+      <string>uni030A0301</string>
+      <string>uni03030308</string>
+      <string>tildecomb_acutecomb</string>
+      <string>uni03030304</string>
+      <string>uni03040308</string>
+      <string>uni03040300</string>
+      <string>uni03040301</string>
+      <string>uni0308.case</string>
+      <string>uni03080300.case</string>
+      <string>uni03080301.case</string>
+      <string>uni03080304.case</string>
+      <string>uni0307.case</string>
+      <string>uni03070304.case</string>
+      <string>gravecomb.case</string>
+      <string>uni03000304.case</string>
+      <string>acutecomb.case</string>
+      <string>uni03010307.case</string>
+      <string>uni03010304.case</string>
+      <string>uni030B.case</string>
+      <string>uni0302.case</string>
+      <string>uni030C.case</string>
+      <string>uni030C0307.case</string>
+      <string>uni0306.case</string>
+      <string>tildecomb.case</string>
+      <string>uni03030308.case</string>
+      <string>tildecomb_acutecomb.case</string>
+      <string>uni03030304.case</string>
+      <string>uni0304.case</string>
+      <string>uni03040308.case</string>
+      <string>uni03040300.case</string>
+      <string>uni03040301.case</string>
+      <string>hookabovecomb.case</string>
+      <string>uni030F.case</string>
+      <string>uni0311.case</string>
+      <string>uni0335.case</string>
+      <string>uni0337.case</string>
+      <string>uni0338.case</string>
+      <string>uni0304.narrow.case</string>
+      <string>uni0307.i</string>
+      <string>uni0328.i</string>
+      <string>uni0308.loclVIET</string>
+      <string>uni0307.loclVIET</string>
+      <string>gravecomb.loclVIET</string>
+      <string>acutecomb.loclVIET</string>
+      <string>uni0302.loclVIET</string>
+      <string>uni030C.loclVIET</string>
+      <string>uni0306.loclVIET</string>
+      <string>tildecomb.loclVIET</string>
+      <string>uni0304.loclVIET</string>
+      <string>hookabovecomb.loclVIET</string>
+      <string>uni0308.narrow</string>
+      <string>uni0302.narrow</string>
+      <string>uni0306.narrow</string>
+      <string>tildecomb.narrow</string>
+      <string>uni0304.narrow</string>
+      <string>uni0311.narrow</string>
+      <string>caroncomb.alt.short</string>
+      <string>uni0335.t</string>
+      <string>uni0335.sc</string>
+      <string>uni0336.sc</string>
+      <string>uni0338.sc</string>
+      <string>brevecombcy</string>
+      <string>brevecombcy.case</string>
+      <string>descendercy</string>
+      <string>descendercy.case</string>
+      <string>descendercy.case.short</string>
+      <string>descendercy.short</string>
+      <string>uni03060301</string>
+      <string>uni03060300</string>
+      <string>uni03060309</string>
+      <string>uni03060303</string>
+      <string>uni03020301</string>
+      <string>uni03020300</string>
+      <string>uni03020309</string>
+      <string>uni03020303</string>
+      <string>uni03060301.case</string>
+      <string>uni03060300.case</string>
+      <string>uni03060309.case</string>
+      <string>uni03060303.case</string>
+      <string>uni03020301.case</string>
+      <string>uni03020300.case</string>
+      <string>uni03020309.case</string>
+      <string>uni03020303.case</string>
+      <string>verticalbarcy.case</string>
+      <string>verticalbarcy</string>
+    </array>
+    <key>public.truetype.instructions</key>
+    <dict>
+      <key>controlValue</key>
+      <array>
+        <dict>
+          <key>id</key>
+          <string>0</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>1</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>2</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>3</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>4</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>5</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>6</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>7</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>8</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>9</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>10</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>11</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>12</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>13</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>14</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>15</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>16</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>17</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>18</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>19</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>20</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>21</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>22</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>23</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>24</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>25</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>26</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>27</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>28</string>
+          <key>value</key>
+          <integer>72</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>29</string>
+          <key>value</key>
+          <integer>72</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>30</string>
+          <key>value</key>
+          <integer>62</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>31</string>
+          <key>value</key>
+          <integer>62</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>32</string>
+          <key>value</key>
+          <integer>700</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>33</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>34</string>
+          <key>value</key>
+          <integer>526</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>35</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>36</string>
+          <key>value</key>
+          <integer>-194</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>37</string>
+          <key>value</key>
+          <integer>706</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>38</string>
+          <key>value</key>
+          <integer>-6</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>39</string>
+          <key>value</key>
+          <integer>530</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>40</string>
+          <key>value</key>
+          <integer>-5</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>41</string>
+          <key>value</key>
+          <integer>-199</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>42</string>
+          <key>value</key>
+          <integer>72</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>43</string>
+          <key>value</key>
+          <integer>72</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>44</string>
+          <key>value</key>
+          <integer>62</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>45</string>
+          <key>value</key>
+          <integer>62</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>46</string>
+          <key>value</key>
+          <integer>565</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>47</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>48</string>
+          <key>value</key>
+          <integer>572</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>49</string>
+          <key>value</key>
+          <integer>-6</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>50</string>
+          <key>value</key>
+          <integer>72</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>51</string>
+          <key>value</key>
+          <integer>72</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>52</string>
+          <key>value</key>
+          <integer>62</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>53</string>
+          <key>value</key>
+          <integer>62</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>54</string>
+          <key>value</key>
+          <integer>565</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>55</string>
+          <key>value</key>
+          <integer>565</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>56</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>57</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>58</string>
+          <key>value</key>
+          <integer>565</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>59</string>
+          <key>value</key>
+          <integer>572</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>60</string>
+          <key>value</key>
+          <integer>-6</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>61</string>
+          <key>value</key>
+          <integer>-6</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>62</string>
+          <key>value</key>
+          <integer>72</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>63</string>
+          <key>value</key>
+          <integer>72</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>64</string>
+          <key>value</key>
+          <integer>62</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>65</string>
+          <key>value</key>
+          <integer>62</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>66</string>
+          <key>value</key>
+          <integer>700</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>67</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>68</string>
+          <key>value</key>
+          <integer>742</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>69</string>
+          <key>value</key>
+          <integer>526</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>70</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>71</string>
+          <key>value</key>
+          <integer>-194</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>72</string>
+          <key>value</key>
+          <integer>706</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>73</string>
+          <key>value</key>
+          <integer>-6</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>74</string>
+          <key>value</key>
+          <integer>743</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>75</string>
+          <key>value</key>
+          <integer>530</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>76</string>
+          <key>value</key>
+          <integer>-5</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>77</string>
+          <key>value</key>
+          <integer>-199</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>78</string>
+          <key>value</key>
+          <integer>72</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>79</string>
+          <key>value</key>
+          <integer>72</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>80</string>
+          <key>value</key>
+          <integer>62</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>81</string>
+          <key>value</key>
+          <integer>62</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>82</string>
+          <key>value</key>
+          <integer>315</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>83</string>
+          <key>value</key>
+          <integer>-100</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>84</string>
+          <key>value</key>
+          <integer>742</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>85</string>
+          <key>value</key>
+          <integer>526</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>86</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>87</string>
+          <key>value</key>
+          <integer>-194</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>88</string>
+          <key>value</key>
+          <integer>319</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>89</string>
+          <key>value</key>
+          <integer>-104</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>90</string>
+          <key>value</key>
+          <integer>743</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>91</string>
+          <key>value</key>
+          <integer>530</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>92</string>
+          <key>value</key>
+          <integer>-5</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>93</string>
+          <key>value</key>
+          <integer>-194</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>94</string>
+          <key>value</key>
+          <integer>72</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>95</string>
+          <key>value</key>
+          <integer>72</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>96</string>
+          <key>value</key>
+          <integer>62</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>97</string>
+          <key>value</key>
+          <integer>62</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>98</string>
+          <key>value</key>
+          <integer>742</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>99</string>
+          <key>value</key>
+          <integer>327</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>100</string>
+          <key>value</key>
+          <integer>742</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>101</string>
+          <key>value</key>
+          <integer>526</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>102</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>103</string>
+          <key>value</key>
+          <integer>-194</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>104</string>
+          <key>value</key>
+          <integer>746</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>105</string>
+          <key>value</key>
+          <integer>323</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>106</string>
+          <key>value</key>
+          <integer>743</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>107</string>
+          <key>value</key>
+          <integer>530</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>108</string>
+          <key>value</key>
+          <integer>-5</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>109</string>
+          <key>value</key>
+          <integer>-199</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>110</string>
+          <key>value</key>
+          <integer>24</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>111</string>
+          <key>value</key>
+          <integer>24</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>112</string>
+          <key>value</key>
+          <integer>24</integer>
+        </dict>
+        <dict>
+          <key>id</key>
+          <string>113</string>
+          <key>value</key>
+          <integer>24</integer>
+        </dict>
+      </array>
+      <key>controlValueProgram</key>
+      <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHW[ ]	/* 1 value pushed */
+200
+GT[ ]	/* GreaterThan */
+IF[ ]	/* If */
+  PUSHB[ ]	/* 2 values pushed */
+  1 1
+  INSTCTRL[ ]	/* SetInstrExecControl */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+1
+PUSHW[ ]	/* 2 values pushed */
+2048 2048
+MUL[ ]	/* Multiply */
+WCVTF[ ]	/* WriteCVTInFUnits */
+PUSHB[ ]	/* 2 values pushed */
+0 7
+WS[ ]	/* WriteStore */
+NPUSHB[ ]	/* 9 values pushed */
+0 107 91 75 59 0 39 7 0
+LOOPCALL[ ]	/* LoopAndCallFunction */
+PUSHB[ ]	/* 2 values pushed */
+0 7
+WS[ ]	/* WriteStore */
+NPUSHB[ ]	/* 16 values pushed */
+112 2 96 8 80 8 64 8 52 6 44 4 30 7 7 8
+LOOPCALL[ ]	/* LoopAndCallFunction */
+PUSHB[ ]	/* 2 values pushed */
+0 7
+WS[ ]	/* WriteStore */
+NPUSHB[ ]	/* 16 values pushed */
+114 0 104 6 88 6 72 6 58 4 48 2 37 5 7 8
+LOOPCALL[ ]	/* LoopAndCallFunction */
+PUSHB[ ]	/* 2 values pushed */
+0 14
+WS[ ]	/* WriteStore */
+NPUSHW[ ]	/* 9 values pushed */
+7232 6208 5184 4160 3392 2880 1984 7 9
+LOOPCALL[ ]	/* LoopAndCallFunction */
+PUSHB[ ]	/* 2 values pushed */
+0 21
+WS[ ]	/* WriteStore */
+NPUSHW[ ]	/* 9 values pushed */
+64 64 64 64 64 64 64 7 9
+LOOPCALL[ ]	/* LoopAndCallFunction */
+PUSHB[ ]	/* 2 values pushed */
+3 0
+WCVTP[ ]	/* WriteCVTInPixels */
+PUSHB[ ]	/* 2 values pushed */
+36 1
+GETINFO[ ]	/* GetInfo */
+LTEQ[ ]	/* LessThenOrEqual */
+IF[ ]	/* If */
+  PUSHB[ ]	/* 1 value pushed */
+  64
+  GETINFO[ ]	/* GetInfo */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 2 values pushed */
+    3 100
+    WCVTP[ ]	/* WriteCVTInPixels */
+    PUSHB[ ]	/* 2 values pushed */
+    38 1
+    GETINFO[ ]	/* GetInfo */
+    LTEQ[ ]	/* LessThenOrEqual */
+    IF[ ]	/* If */
+      PUSHW[ ]	/* 3 values pushed */
+      2176 1 1088
+      GETINFO[ ]	/* GetInfo */
+      MUL[ ]	/* Multiply */
+      EQ[ ]	/* Equal */
+      IF[ ]	/* If */
+        PUSHB[ ]	/* 2 values pushed */
+        3 0
+        WCVTP[ ]	/* WriteCVTInPixels */
+      EIF[ ]	/* EndIf */
+    EIF[ ]	/* EndIf */
+  EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 16 values pushed */
+114 0 98 6 82 6 66 6 54 4 46 2 32 5 7 12
+LOOPCALL[ ]	/* LoopAndCallFunction */
+PUSHW[ ]	/* 1 value pushed */
+511
+SCANCTRL[ ]	/* ScanConversionControl */
+PUSHB[ ]	/* 1 value pushed */
+4
+SCANTYPE[ ]	/* ScanType */
+PUSHB[ ]	/* 2 values pushed */
+2 0
+WCVTP[ ]	/* WriteCVTInPixels */
+PUSHB[ ]	/* 4 values pushed */
+5 100 6 0
+WCVTP[ ]	/* WriteCVTInPixels */
+WCVTP[ ]	/* WriteCVTInPixels */
+</string>
+      <key>fontProgram</key>
+      <string>
+PUSHB[ ]	/* 1 value pushed */
+0
+FDEF[ ]	/* FunctionDefinition */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  NEQ[ ]	/* NotEqual */
+  IF[ ]	/* If */
+    RCVT[ ]	/* ReadCVT */
+  EIF[ ]	/* EndIf */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  MPPEM[ ]	/* MeasurePixelPerEm */
+  PUSHW[ ]	/* 1 value pushed */
+  14
+  LTEQ[ ]	/* LessThenOrEqual */
+  MPPEM[ ]	/* MeasurePixelPerEm */
+  PUSHB[ ]	/* 1 value pushed */
+  6
+  GTEQ[ ]	/* GreaterThanOrEqual */
+  AND[ ]	/* LogicalAnd */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    52
+  ELSE[ ]	/* Else */
+    PUSHB[ ]	/* 1 value pushed */
+    40
+  EIF[ ]	/* EndIf */
+  ADD[ ]	/* Add */
+  FLOOR[ ]	/* Floor */
+  DUP[ ]	/* DuplicateTopStack */
+  ROLL[ ]	/* RollTopThreeStack */
+  NEQ[ ]	/* NotEqual */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    CINDEX[ ]	/* CopyXToTopStack */
+    SUB[ ]	/* Subtract */
+    PUSHW[ ]	/* 2 values pushed */
+    2048 2048
+    MUL[ ]	/* Multiply */
+    MUL[ ]	/* Multiply */
+    SWAP[ ]	/* SwapTopStack */
+    DIV[ ]	/* Divide */
+  ELSE[ ]	/* Else */
+    POP[ ]	/* PopTopStack */
+    POP[ ]	/* PopTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    0
+  EIF[ ]	/* EndIf */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  RS[ ]	/* ReadStore */
+  SWAP[ ]	/* SwapTopStack */
+  WCVTP[ ]	/* WriteCVTInPixels */
+  PUSHB[ ]	/* 3 values pushed */
+  0 1 0
+  RS[ ]	/* ReadStore */
+  ADD[ ]	/* Add */
+  WS[ ]	/* WriteStore */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+1
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  32
+  ADD[ ]	/* Add */
+  FLOOR[ ]	/* Floor */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+2
+FDEF[ ]	/* FunctionDefinition */
+  DUP[ ]	/* DuplicateTopStack */
+  ABS[ ]	/* Absolute */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  192
+  LT[ ]	/* LessThan */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  MINDEX[ ]	/* MoveXToTopStack */
+  AND[ ]	/* LogicalAnd */
+  PUSHB[ ]	/* 3 values pushed */
+  40 1 11
+  RS[ ]	/* ReadStore */
+  RCVT[ ]	/* ReadCVT */
+  MUL[ ]	/* Multiply */
+  RCVT[ ]	/* ReadCVT */
+  PUSHB[ ]	/* 1 value pushed */
+  6
+  RCVT[ ]	/* ReadCVT */
+  IF[ ]	/* If */
+    POP[ ]	/* PopTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    3
+    CINDEX[ ]	/* CopyXToTopStack */
+  EIF[ ]	/* EndIf */
+  GT[ ]	/* GreaterThan */
+  OR[ ]	/* LogicalOr */
+  IF[ ]	/* If */
+    POP[ ]	/* PopTopStack */
+    SWAP[ ]	/* SwapTopStack */
+    POP[ ]	/* PopTopStack */
+  ELSE[ ]	/* Else */
+    ROLL[ ]	/* RollTopThreeStack */
+    IF[ ]	/* If */
+      DUP[ ]	/* DuplicateTopStack */
+      PUSHB[ ]	/* 1 value pushed */
+      80
+      LT[ ]	/* LessThan */
+      IF[ ]	/* If */
+        POP[ ]	/* PopTopStack */
+        PUSHB[ ]	/* 1 value pushed */
+        64
+      EIF[ ]	/* EndIf */
+    ELSE[ ]	/* Else */
+      DUP[ ]	/* DuplicateTopStack */
+      PUSHB[ ]	/* 1 value pushed */
+      56
+      LT[ ]	/* LessThan */
+      IF[ ]	/* If */
+        POP[ ]	/* PopTopStack */
+        PUSHB[ ]	/* 1 value pushed */
+        56
+      EIF[ ]	/* EndIf */
+    EIF[ ]	/* EndIf */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 2 values pushed */
+    1 11
+    RS[ ]	/* ReadStore */
+    RCVT[ ]	/* ReadCVT */
+    MUL[ ]	/* Multiply */
+    RCVT[ ]	/* ReadCVT */
+    SUB[ ]	/* Subtract */
+    ABS[ ]	/* Absolute */
+    PUSHB[ ]	/* 1 value pushed */
+    40
+    LT[ ]	/* LessThan */
+    IF[ ]	/* If */
+      POP[ ]	/* PopTopStack */
+      PUSHB[ ]	/* 2 values pushed */
+      1 11
+      RS[ ]	/* ReadStore */
+      RCVT[ ]	/* ReadCVT */
+      MUL[ ]	/* Multiply */
+      RCVT[ ]	/* ReadCVT */
+      DUP[ ]	/* DuplicateTopStack */
+      PUSHB[ ]	/* 1 value pushed */
+      48
+      LT[ ]	/* LessThan */
+      IF[ ]	/* If */
+        POP[ ]	/* PopTopStack */
+        PUSHB[ ]	/* 1 value pushed */
+        48
+      EIF[ ]	/* EndIf */
+    ELSE[ ]	/* Else */
+      DUP[ ]	/* DuplicateTopStack */
+      PUSHB[ ]	/* 1 value pushed */
+      192
+      LT[ ]	/* LessThan */
+      IF[ ]	/* If */
+        DUP[ ]	/* DuplicateTopStack */
+        FLOOR[ ]	/* Floor */
+        DUP[ ]	/* DuplicateTopStack */
+        ROLL[ ]	/* RollTopThreeStack */
+        ROLL[ ]	/* RollTopThreeStack */
+        SUB[ ]	/* Subtract */
+        DUP[ ]	/* DuplicateTopStack */
+        PUSHB[ ]	/* 1 value pushed */
+        10
+        LT[ ]	/* LessThan */
+        IF[ ]	/* If */
+          ADD[ ]	/* Add */
+        ELSE[ ]	/* Else */
+          DUP[ ]	/* DuplicateTopStack */
+          PUSHB[ ]	/* 1 value pushed */
+          32
+          LT[ ]	/* LessThan */
+          IF[ ]	/* If */
+            POP[ ]	/* PopTopStack */
+            PUSHB[ ]	/* 1 value pushed */
+            10
+            ADD[ ]	/* Add */
+          ELSE[ ]	/* Else */
+            DUP[ ]	/* DuplicateTopStack */
+            PUSHB[ ]	/* 1 value pushed */
+            54
+            LT[ ]	/* LessThan */
+            IF[ ]	/* If */
+              POP[ ]	/* PopTopStack */
+              PUSHB[ ]	/* 1 value pushed */
+              54
+              ADD[ ]	/* Add */
+            ELSE[ ]	/* Else */
+              ADD[ ]	/* Add */
+            EIF[ ]	/* EndIf */
+          EIF[ ]	/* EndIf */
+        EIF[ ]	/* EndIf */
+      ELSE[ ]	/* Else */
+        PUSHB[ ]	/* 1 value pushed */
+        2
+        CINDEX[ ]	/* CopyXToTopStack */
+        PUSHB[ ]	/* 1 value pushed */
+        10
+        RS[ ]	/* ReadStore */
+        MUL[ ]	/* Multiply */
+        PUSHB[ ]	/* 1 value pushed */
+        0
+        GT[ ]	/* GreaterThan */
+        IF[ ]	/* If */
+          PUSHB[ ]	/* 1 value pushed */
+          0
+          MPPEM[ ]	/* MeasurePixelPerEm */
+          PUSHB[ ]	/* 1 value pushed */
+          10
+          LT[ ]	/* LessThan */
+          IF[ ]	/* If */
+            POP[ ]	/* PopTopStack */
+            PUSHB[ ]	/* 1 value pushed */
+            10
+            RS[ ]	/* ReadStore */
+          ELSE[ ]	/* Else */
+            MPPEM[ ]	/* MeasurePixelPerEm */
+            PUSHB[ ]	/* 1 value pushed */
+            30
+            LT[ ]	/* LessThan */
+            IF[ ]	/* If */
+              POP[ ]	/* PopTopStack */
+              PUSHB[ ]	/* 1 value pushed */
+              30
+              MPPEM[ ]	/* MeasurePixelPerEm */
+              SUB[ ]	/* Subtract */
+              PUSHW[ ]	/* 1 value pushed */
+              4096
+              MUL[ ]	/* Multiply */
+              PUSHB[ ]	/* 1 value pushed */
+              10
+              RS[ ]	/* ReadStore */
+              MUL[ ]	/* Multiply */
+              PUSHW[ ]	/* 1 value pushed */
+              1280
+              DIV[ ]	/* Divide */
+            EIF[ ]	/* EndIf */
+          EIF[ ]	/* EndIf */
+          ABS[ ]	/* Absolute */
+          SUB[ ]	/* Subtract */
+        EIF[ ]	/* EndIf */
+        PUSHB[ ]	/* 1 value pushed */
+        1
+        CALL[ ]	/* CallFunction */
+      EIF[ ]	/* EndIf */
+    EIF[ ]	/* EndIf */
+    SWAP[ ]	/* SwapTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    0
+    LT[ ]	/* LessThan */
+    IF[ ]	/* If */
+      NEG[ ]	/* Negate */
+    EIF[ ]	/* EndIf */
+  EIF[ ]	/* EndIf */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+3
+FDEF[ ]	/* FunctionDefinition */
+  DUP[ ]	/* DuplicateTopStack */
+  RCVT[ ]	/* ReadCVT */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  CINDEX[ ]	/* CopyXToTopStack */
+  SUB[ ]	/* Subtract */
+  ABS[ ]	/* Absolute */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  5
+  RS[ ]	/* ReadStore */
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    5
+    SWAP[ ]	/* SwapTopStack */
+    WS[ ]	/* WriteStore */
+    PUSHB[ ]	/* 1 value pushed */
+    6
+    SWAP[ ]	/* SwapTopStack */
+    WS[ ]	/* WriteStore */
+  ELSE[ ]	/* Else */
+    POP[ ]	/* PopTopStack */
+    POP[ ]	/* PopTopStack */
+  EIF[ ]	/* EndIf */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  ADD[ ]	/* Add */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+4
+FDEF[ ]	/* FunctionDefinition */
+  SWAP[ ]	/* SwapTopStack */
+  POP[ ]	/* PopTopStack */
+  SWAP[ ]	/* SwapTopStack */
+  POP[ ]	/* PopTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  ABS[ ]	/* Absolute */
+  PUSHB[ ]	/* 2 values pushed */
+  5 98
+  WS[ ]	/* WriteStore */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  6
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 1 value pushed */
+  6
+  RCVT[ ]	/* ReadCVT */
+  IF[ ]	/* If */
+  ELSE[ ]	/* Else */
+    PUSHB[ ]	/* 2 values pushed */
+    1 11
+    RS[ ]	/* ReadStore */
+    RCVT[ ]	/* ReadCVT */
+    MUL[ ]	/* Multiply */
+    PUSHB[ ]	/* 2 values pushed */
+    1 11
+    RS[ ]	/* ReadStore */
+    PUSHB[ ]	/* 1 value pushed */
+    7
+    ADD[ ]	/* Add */
+    RCVT[ ]	/* ReadCVT */
+    MUL[ ]	/* Multiply */
+    PUSHB[ ]	/* 1 value pushed */
+    3
+    LOOPCALL[ ]	/* LoopAndCallFunction */
+    POP[ ]	/* PopTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    6
+    RS[ ]	/* ReadStore */
+    DUP[ ]	/* DuplicateTopStack */
+    ROLL[ ]	/* RollTopThreeStack */
+    DUP[ ]	/* DuplicateTopStack */
+    ROLL[ ]	/* RollTopThreeStack */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    CALL[ ]	/* CallFunction */
+    PUSHB[ ]	/* 2 values pushed */
+    48 5
+    CINDEX[ ]	/* CopyXToTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    4
+    MINDEX[ ]	/* MoveXToTopStack */
+    LTEQ[ ]	/* LessThenOrEqual */
+    IF[ ]	/* If */
+      ADD[ ]	/* Add */
+      LT[ ]	/* LessThan */
+    ELSE[ ]	/* Else */
+      SUB[ ]	/* Subtract */
+      GT[ ]	/* GreaterThan */
+    EIF[ ]	/* EndIf */
+    IF[ ]	/* If */
+      SWAP[ ]	/* SwapTopStack */
+    EIF[ ]	/* EndIf */
+    POP[ ]	/* PopTopStack */
+  EIF[ ]	/* EndIf */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  64
+  GTEQ[ ]	/* GreaterThanOrEqual */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    CALL[ ]	/* CallFunction */
+  ELSE[ ]	/* Else */
+    POP[ ]	/* PopTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    64
+  EIF[ ]	/* EndIf */
+  SWAP[ ]	/* SwapTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    NEG[ ]	/* Negate */
+  EIF[ ]	/* EndIf */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+5
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  7
+  RS[ ]	/* ReadStore */
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 3 values pushed */
+  0 2 0
+  RS[ ]	/* ReadStore */
+  ADD[ ]	/* Add */
+  WS[ ]	/* WriteStore */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+6
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  7
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  SUB[ ]	/* Subtract */
+  PUSHB[ ]	/* 1 value pushed */
+  2
+  DIV[ ]	/* Divide */
+  FLOOR[ ]	/* Floor */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  MUL[ ]	/* Multiply */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  ADD[ ]	/* Add */
+  PUSHB[ ]	/* 1 value pushed */
+  5
+  LOOPCALL[ ]	/* LoopAndCallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+7
+FDEF[ ]	/* FunctionDefinition */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  RCVT[ ]	/* ReadCVT */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  12
+  RS[ ]	/* ReadStore */
+  MUL[ ]	/* Multiply */
+  PUSHW[ ]	/* 1 value pushed */
+  1024
+  DIV[ ]	/* Divide */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    64
+    ADD[ ]	/* Add */
+  EIF[ ]	/* EndIf */
+  FLOOR[ ]	/* Floor */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  MUL[ ]	/* Multiply */
+  ADD[ ]	/* Add */
+  WCVTP[ ]	/* WriteCVTInPixels */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  ADD[ ]	/* Add */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+8
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  7 12 0
+  RS[ ]	/* ReadStore */
+  RCVT[ ]	/* ReadCVT */
+  WS[ ]	/* WriteStore */
+  LOOPCALL[ ]	/* LoopAndCallFunction */
+  POP[ ]	/* PopTopStack */
+  PUSHB[ ]	/* 3 values pushed */
+  0 1 0
+  RS[ ]	/* ReadStore */
+  ADD[ ]	/* Add */
+  WS[ ]	/* WriteStore */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+9
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  RS[ ]	/* ReadStore */
+  SWAP[ ]	/* SwapTopStack */
+  WCVTP[ ]	/* WriteCVTInPixels */
+  PUSHB[ ]	/* 3 values pushed */
+  0 1 0
+  RS[ ]	/* ReadStore */
+  ADD[ ]	/* Add */
+  WS[ ]	/* WriteStore */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+10
+FDEF[ ]	/* FunctionDefinition */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  RCVT[ ]	/* ReadCVT */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  CALL[ ]	/* CallFunction */
+  SWAP[ ]	/* SwapTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  RS[ ]	/* ReadStore */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  CINDEX[ ]	/* CopyXToTopStack */
+  ADD[ ]	/* Add */
+  DUP[ ]	/* DuplicateTopStack */
+  RCVT[ ]	/* ReadCVT */
+  ROLL[ ]	/* RollTopThreeStack */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  DUP[ ]	/* DuplicateTopStack */
+  ABS[ ]	/* Absolute */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  32
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    POP[ ]	/* PopTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    0
+  ELSE[ ]	/* Else */
+    PUSHB[ ]	/* 1 value pushed */
+    48
+    LT[ ]	/* LessThan */
+    IF[ ]	/* If */
+      PUSHB[ ]	/* 1 value pushed */
+      32
+    ELSE[ ]	/* Else */
+      PUSHB[ ]	/* 1 value pushed */
+      64
+    EIF[ ]	/* EndIf */
+  EIF[ ]	/* EndIf */
+  SWAP[ ]	/* SwapTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    NEG[ ]	/* Negate */
+  EIF[ ]	/* EndIf */
+  PUSHB[ ]	/* 1 value pushed */
+  3
+  CINDEX[ ]	/* CopyXToTopStack */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  WCVTP[ ]	/* WriteCVTInPixels */
+  WCVTP[ ]	/* WriteCVTInPixels */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  ADD[ ]	/* Add */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+11
+FDEF[ ]	/* FunctionDefinition */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  RCVT[ ]	/* ReadCVT */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  CALL[ ]	/* CallFunction */
+  SWAP[ ]	/* SwapTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  RS[ ]	/* ReadStore */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  CINDEX[ ]	/* CopyXToTopStack */
+  ADD[ ]	/* Add */
+  DUP[ ]	/* DuplicateTopStack */
+  RCVT[ ]	/* ReadCVT */
+  ROLL[ ]	/* RollTopThreeStack */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  DUP[ ]	/* DuplicateTopStack */
+  ABS[ ]	/* Absolute */
+  PUSHB[ ]	/* 1 value pushed */
+  36
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    0
+  ELSE[ ]	/* Else */
+    PUSHB[ ]	/* 1 value pushed */
+    64
+  EIF[ ]	/* EndIf */
+  SWAP[ ]	/* SwapTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    NEG[ ]	/* Negate */
+  EIF[ ]	/* EndIf */
+  PUSHB[ ]	/* 1 value pushed */
+  3
+  CINDEX[ ]	/* CopyXToTopStack */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  WCVTP[ ]	/* WriteCVTInPixels */
+  WCVTP[ ]	/* WriteCVTInPixels */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  ADD[ ]	/* Add */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+12
+FDEF[ ]	/* FunctionDefinition */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 3 values pushed */
+  11 10 3
+  RCVT[ ]	/* ReadCVT */
+  IF[ ]	/* If */
+    POP[ ]	/* PopTopStack */
+  ELSE[ ]	/* Else */
+    SWAP[ ]	/* SwapTopStack */
+    POP[ ]	/* PopTopStack */
+  EIF[ ]	/* EndIf */
+  LOOPCALL[ ]	/* LoopAndCallFunction */
+  POP[ ]	/* PopTopStack */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+13
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  2 2
+  RCVT[ ]	/* ReadCVT */
+  PUSHB[ ]	/* 1 value pushed */
+  100
+  SUB[ ]	/* Subtract */
+  WCVTP[ ]	/* WriteCVTInPixels */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+14
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  ADD[ ]	/* Add */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  13
+  RS[ ]	/* ReadStore */
+  MD[1]	/* MeasureDistance */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    13
+    SWAP[ ]	/* SwapTopStack */
+    WS[ ]	/* WriteStore */
+  EIF[ ]	/* EndIf */
+  PUSHB[ ]	/* 1 value pushed */
+  14
+  RS[ ]	/* ReadStore */
+  MD[1]	/* MeasureDistance */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  GT[ ]	/* GreaterThan */
+  IF[ ]	/* If */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    14
+    SWAP[ ]	/* SwapTopStack */
+    WS[ ]	/* WriteStore */
+  EIF[ ]	/* EndIf */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+15
+FDEF[ ]	/* FunctionDefinition */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  16
+  DIV[ ]	/* Divide */
+  FLOOR[ ]	/* Floor */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  MUL[ ]	/* Multiply */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHW[ ]	/* 1 value pushed */
+  1024
+  MUL[ ]	/* Multiply */
+  ROLL[ ]	/* RollTopThreeStack */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  PUSHB[ ]	/* 1 value pushed */
+  15
+  RS[ ]	/* ReadStore */
+  ADD[ ]	/* Add */
+  DUP[ ]	/* DuplicateTopStack */
+  ROLL[ ]	/* RollTopThreeStack */
+  ADD[ ]	/* Add */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  15
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  SWAP[ ]	/* SwapTopStack */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+16
+FDEF[ ]	/* FunctionDefinition */
+  MPPEM[ ]	/* MeasurePixelPerEm */
+  EQ[ ]	/* Equal */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 2 values pushed */
+    4 100
+    WCVTP[ ]	/* WriteCVTInPixels */
+  EIF[ ]	/* EndIf */
+  DEPTH[ ]	/* GetDepthStack */
+  PUSHB[ ]	/* 1 value pushed */
+  13
+  NEG[ ]	/* Negate */
+  SWAP[ ]	/* SwapTopStack */
+  JROT[ ]	/* JumpRelativeOnTrue */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+17
+FDEF[ ]	/* FunctionDefinition */
+  MPPEM[ ]	/* MeasurePixelPerEm */
+  LTEQ[ ]	/* LessThenOrEqual */
+  IF[ ]	/* If */
+    MPPEM[ ]	/* MeasurePixelPerEm */
+    GTEQ[ ]	/* GreaterThanOrEqual */
+    IF[ ]	/* If */
+      PUSHB[ ]	/* 2 values pushed */
+      4 100
+      WCVTP[ ]	/* WriteCVTInPixels */
+    EIF[ ]	/* EndIf */
+  ELSE[ ]	/* Else */
+    POP[ ]	/* PopTopStack */
+  EIF[ ]	/* EndIf */
+  DEPTH[ ]	/* GetDepthStack */
+  PUSHB[ ]	/* 1 value pushed */
+  19
+  NEG[ ]	/* Negate */
+  SWAP[ ]	/* SwapTopStack */
+  JROT[ ]	/* JumpRelativeOnTrue */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+18
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 16
+  RS[ ]	/* ReadStore */
+  NEQ[ ]	/* NotEqual */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 2 values pushed */
+    16 16
+    RS[ ]	/* ReadStore */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    SUB[ ]	/* Subtract */
+    WS[ ]	/* WriteStore */
+    PUSHB[ ]	/* 1 value pushed */
+    15
+    CALL[ ]	/* CallFunction */
+  EIF[ ]	/* EndIf */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  RS[ ]	/* ReadStore */
+  PUSHB[ ]	/* 1 value pushed */
+  2
+  CINDEX[ ]	/* CopyXToTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 2 values pushed */
+  13 2
+  CINDEX[ ]	/* CopyXToTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 2 values pushed */
+  14 2
+  CINDEX[ ]	/* CopyXToTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  SZPS[ ]	/* SetZonePointerS */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  3
+  CINDEX[ ]	/* CopyXToTopStack */
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 2 values pushed */
+    1 0
+    RS[ ]	/* ReadStore */
+    ADD[ ]	/* Add */
+    PUSHB[ ]	/* 1 value pushed */
+    4
+    CINDEX[ ]	/* CopyXToTopStack */
+    WS[ ]	/* WriteStore */
+    ROLL[ ]	/* RollTopThreeStack */
+    ROLL[ ]	/* RollTopThreeStack */
+    DUP[ ]	/* DuplicateTopStack */
+    ROLL[ ]	/* RollTopThreeStack */
+    SWAP[ ]	/* SwapTopStack */
+    SUB[ ]	/* Subtract */
+    PUSHB[ ]	/* 1 value pushed */
+    14
+    LOOPCALL[ ]	/* LoopAndCallFunction */
+    POP[ ]	/* PopTopStack */
+    SWAP[ ]	/* SwapTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    SUB[ ]	/* Subtract */
+    DUP[ ]	/* DuplicateTopStack */
+    ROLL[ ]	/* RollTopThreeStack */
+    SWAP[ ]	/* SwapTopStack */
+    SUB[ ]	/* Subtract */
+    PUSHB[ ]	/* 1 value pushed */
+    14
+    LOOPCALL[ ]	/* LoopAndCallFunction */
+    POP[ ]	/* PopTopStack */
+  ELSE[ ]	/* Else */
+    PUSHB[ ]	/* 2 values pushed */
+    1 0
+    RS[ ]	/* ReadStore */
+    ADD[ ]	/* Add */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    CINDEX[ ]	/* CopyXToTopStack */
+    WS[ ]	/* WriteStore */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    CINDEX[ ]	/* CopyXToTopStack */
+    SUB[ ]	/* Subtract */
+    PUSHB[ ]	/* 1 value pushed */
+    14
+    LOOPCALL[ ]	/* LoopAndCallFunction */
+    POP[ ]	/* PopTopStack */
+  EIF[ ]	/* EndIf */
+  PUSHB[ ]	/* 1 value pushed */
+  13
+  RS[ ]	/* ReadStore */
+  GC[1]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  14
+  RS[ ]	/* ReadStore */
+  GC[1]	/* GetCoordOnPVector */
+  ADD[ ]	/* Add */
+  PUSHB[ ]	/* 1 value pushed */
+  2
+  DIV[ ]	/* Divide */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    64
+    ADD[ ]	/* Add */
+  EIF[ ]	/* EndIf */
+  FLOOR[ ]	/* Floor */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  MUL[ ]	/* Multiply */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  12
+  RS[ ]	/* ReadStore */
+  MUL[ ]	/* Multiply */
+  PUSHW[ ]	/* 1 value pushed */
+  1024
+  DIV[ ]	/* Divide */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    64
+    ADD[ ]	/* Add */
+  EIF[ ]	/* EndIf */
+  FLOOR[ ]	/* Floor */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  MUL[ ]	/* Multiply */
+  ADD[ ]	/* Add */
+  PUSHB[ ]	/* 2 values pushed */
+  0 0
+  SZP0[ ]	/* SetZonePointer0 */
+  SWAP[ ]	/* SwapTopStack */
+  WCVTP[ ]	/* WriteCVTInPixels */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  RS[ ]	/* ReadStore */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  MIAP[0]	/* MoveIndirectAbsPt */
+  PUSHB[ ]	/* 3 values pushed */
+  1 1 1
+  RS[ ]	/* ReadStore */
+  ADD[ ]	/* Add */
+  WS[ ]	/* WriteStore */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+19
+FDEF[ ]	/* FunctionDefinition */
+  SVTCA[0]	/* SetFPVectorToAxis */
+  PUSHB[ ]	/* 2 values pushed */
+  0 2
+  RCVT[ ]	/* ReadCVT */
+  EQ[ ]	/* Equal */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    16
+    SWAP[ ]	/* SwapTopStack */
+    WS[ ]	/* WriteStore */
+    DUP[ ]	/* DuplicateTopStack */
+    RCVT[ ]	/* ReadCVT */
+    PUSHB[ ]	/* 1 value pushed */
+    12
+    SWAP[ ]	/* SwapTopStack */
+    WS[ ]	/* WriteStore */
+    PUSHB[ ]	/* 1 value pushed */
+    11
+    SWAP[ ]	/* SwapTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    7
+    ADD[ ]	/* Add */
+    WS[ ]	/* WriteStore */
+    DUP[ ]	/* DuplicateTopStack */
+    ADD[ ]	/* Add */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    SUB[ ]	/* Subtract */
+    PUSHB[ ]	/* 6 values pushed */
+    18 18 1 0 15 0
+    WS[ ]	/* WriteStore */
+    WS[ ]	/* WriteStore */
+    ROLL[ ]	/* RollTopThreeStack */
+    ADD[ ]	/* Add */
+    PUSHB[ ]	/* 2 values pushed */
+    18 6
+    CALL[ ]	/* CallFunction */
+    PUSHB[ ]	/* 1 value pushed */
+    137
+    CALL[ ]	/* CallFunction */
+  ELSE[ ]	/* Else */
+    CLEAR[ ]	/* ClearStack */
+  EIF[ ]	/* EndIf */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+20
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 19
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+21
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  1 19
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+22
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  2 19
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+23
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  3 19
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+24
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  4 19
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+25
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  5 19
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+26
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  6 19
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+27
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  7 19
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+28
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  8 19
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+29
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  9 19
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+41
+FDEF[ ]	/* FunctionDefinition */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  16
+  DIV[ ]	/* Divide */
+  FLOOR[ ]	/* Floor */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  MUL[ ]	/* Multiply */
+  PUSHB[ ]	/* 1 value pushed */
+  6
+  ADD[ ]	/* Add */
+  MPPEM[ ]	/* MeasurePixelPerEm */
+  EQ[ ]	/* Equal */
+  IF[ ]	/* If */
+    SWAP[ ]	/* SwapTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    MDAP[0]	/* MoveDirectAbsPt */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    DELTAP1[ ]	/* DeltaExceptionP1 */
+  ELSE[ ]	/* Else */
+    POP[ ]	/* PopTopStack */
+    POP[ ]	/* PopTopStack */
+  EIF[ ]	/* EndIf */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+42
+FDEF[ ]	/* FunctionDefinition */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  16
+  DIV[ ]	/* Divide */
+  FLOOR[ ]	/* Floor */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  MUL[ ]	/* Multiply */
+  PUSHB[ ]	/* 1 value pushed */
+  22
+  ADD[ ]	/* Add */
+  MPPEM[ ]	/* MeasurePixelPerEm */
+  EQ[ ]	/* Equal */
+  IF[ ]	/* If */
+    SWAP[ ]	/* SwapTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    MDAP[0]	/* MoveDirectAbsPt */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    DELTAP2[ ]	/* DeltaExceptionP2 */
+  ELSE[ ]	/* Else */
+    POP[ ]	/* PopTopStack */
+    POP[ ]	/* PopTopStack */
+  EIF[ ]	/* EndIf */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+43
+FDEF[ ]	/* FunctionDefinition */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  16
+  DIV[ ]	/* Divide */
+  FLOOR[ ]	/* Floor */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  MUL[ ]	/* Multiply */
+  PUSHB[ ]	/* 1 value pushed */
+  38
+  ADD[ ]	/* Add */
+  MPPEM[ ]	/* MeasurePixelPerEm */
+  EQ[ ]	/* Equal */
+  IF[ ]	/* If */
+    SWAP[ ]	/* SwapTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    MDAP[0]	/* MoveDirectAbsPt */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    DELTAP3[ ]	/* DeltaExceptionP3 */
+  ELSE[ ]	/* Else */
+    POP[ ]	/* PopTopStack */
+    POP[ ]	/* PopTopStack */
+  EIF[ ]	/* EndIf */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+30
+FDEF[ ]	/* FunctionDefinition */
+  SVTCA[0]	/* SetFPVectorToAxis */
+  PUSHB[ ]	/* 1 value pushed */
+  13
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 2 values pushed */
+  0 2
+  RCVT[ ]	/* ReadCVT */
+  EQ[ ]	/* Equal */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    16
+    SWAP[ ]	/* SwapTopStack */
+    WS[ ]	/* WriteStore */
+    DUP[ ]	/* DuplicateTopStack */
+    RCVT[ ]	/* ReadCVT */
+    PUSHB[ ]	/* 1 value pushed */
+    12
+    SWAP[ ]	/* SwapTopStack */
+    WS[ ]	/* WriteStore */
+    PUSHB[ ]	/* 1 value pushed */
+    11
+    SWAP[ ]	/* SwapTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    7
+    ADD[ ]	/* Add */
+    WS[ ]	/* WriteStore */
+    DUP[ ]	/* DuplicateTopStack */
+    ADD[ ]	/* Add */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    SUB[ ]	/* Subtract */
+    PUSHB[ ]	/* 6 values pushed */
+    18 18 1 0 15 0
+    WS[ ]	/* WriteStore */
+    WS[ ]	/* WriteStore */
+    ROLL[ ]	/* RollTopThreeStack */
+    ADD[ ]	/* Add */
+    PUSHB[ ]	/* 2 values pushed */
+    18 6
+    CALL[ ]	/* CallFunction */
+    PUSHB[ ]	/* 1 value pushed */
+    137
+    CALL[ ]	/* CallFunction */
+  ELSE[ ]	/* Else */
+    CLEAR[ ]	/* ClearStack */
+  EIF[ ]	/* EndIf */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+31
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 30
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+32
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  1 30
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+33
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  2 30
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+34
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  3 30
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+35
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  4 30
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+36
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  5 30
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+37
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  6 30
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+38
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  7 30
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+39
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  8 30
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+40
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  9 30
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+44
+FDEF[ ]	/* FunctionDefinition */
+  DUP[ ]	/* DuplicateTopStack */
+  ALIGNRP[ ]	/* AlignRelativePt */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  ADD[ ]	/* Add */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+45
+FDEF[ ]	/* FunctionDefinition */
+  DUP[ ]	/* DuplicateTopStack */
+  ADD[ ]	/* Add */
+  PUSHB[ ]	/* 1 value pushed */
+  18
+  ADD[ ]	/* Add */
+  DUP[ ]	/* DuplicateTopStack */
+  RS[ ]	/* ReadStore */
+  SWAP[ ]	/* SwapTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  ADD[ ]	/* Add */
+  RS[ ]	/* ReadStore */
+  PUSHB[ ]	/* 1 value pushed */
+  2
+  CINDEX[ ]	/* CopyXToTopStack */
+  SUB[ ]	/* Subtract */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  ADD[ ]	/* Add */
+  PUSHB[ ]	/* 1 value pushed */
+  44
+  LOOPCALL[ ]	/* LoopAndCallFunction */
+  POP[ ]	/* PopTopStack */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+46
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  45
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  45
+  LOOPCALL[ ]	/* LoopAndCallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+47
+FDEF[ ]	/* FunctionDefinition */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  12
+  RS[ ]	/* ReadStore */
+  MUL[ ]	/* Multiply */
+  PUSHW[ ]	/* 1 value pushed */
+  1024
+  DIV[ ]	/* Divide */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    64
+    ADD[ ]	/* Add */
+  EIF[ ]	/* EndIf */
+  FLOOR[ ]	/* Floor */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  MUL[ ]	/* Multiply */
+  ADD[ ]	/* Add */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  SHPIX[ ]	/* ShiftZoneByPixel */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  ROLL[ ]	/* RollTopThreeStack */
+  NEQ[ ]	/* NotEqual */
+  IF[ ]	/* If */
+    DUP[ ]	/* DuplicateTopStack */
+    GC[1]	/* GetCoordOnPVector */
+    DUP[ ]	/* DuplicateTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    12
+    RS[ ]	/* ReadStore */
+    MUL[ ]	/* Multiply */
+    PUSHW[ ]	/* 1 value pushed */
+    1024
+    DIV[ ]	/* Divide */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    0
+    LT[ ]	/* LessThan */
+    IF[ ]	/* If */
+      PUSHB[ ]	/* 1 value pushed */
+      64
+      ADD[ ]	/* Add */
+    EIF[ ]	/* EndIf */
+    FLOOR[ ]	/* Floor */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    MUL[ ]	/* Multiply */
+    ADD[ ]	/* Add */
+    SWAP[ ]	/* SwapTopStack */
+    SUB[ ]	/* Subtract */
+    SHPIX[ ]	/* ShiftZoneByPixel */
+  ELSE[ ]	/* Else */
+    POP[ ]	/* PopTopStack */
+  EIF[ ]	/* EndIf */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+48
+FDEF[ ]	/* FunctionDefinition */
+  SVTCA[0]	/* SetFPVectorToAxis */
+  PUSHB[ ]	/* 2 values pushed */
+  0 2
+  RCVT[ ]	/* ReadCVT */
+  EQ[ ]	/* Equal */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 2 values pushed */
+    12 13
+    RCVT[ ]	/* ReadCVT */
+    WS[ ]	/* WriteStore */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    SZPS[ ]	/* SetZonePointerS */
+    PUSHB[ ]	/* 1 value pushed */
+    47
+    LOOPCALL[ ]	/* LoopAndCallFunction */
+    PUSHB[ ]	/* 2 values pushed */
+    5 1
+    SZP2[ ]	/* SetZonePointer2 */
+    RCVT[ ]	/* ReadCVT */
+    IF[ ]	/* If */
+      IUP[0]	/* InterpolateUntPts */
+    EIF[ ]	/* EndIf */
+  ELSE[ ]	/* Else */
+    CLEAR[ ]	/* ClearStack */
+  EIF[ ]	/* EndIf */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+49
+FDEF[ ]	/* FunctionDefinition */
+  SVTCA[0]	/* SetFPVectorToAxis */
+  PUSHB[ ]	/* 1 value pushed */
+  13
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 2 values pushed */
+  0 2
+  RCVT[ ]	/* ReadCVT */
+  EQ[ ]	/* Equal */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 2 values pushed */
+    12 13
+    RCVT[ ]	/* ReadCVT */
+    WS[ ]	/* WriteStore */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    SZPS[ ]	/* SetZonePointerS */
+    PUSHB[ ]	/* 1 value pushed */
+    47
+    LOOPCALL[ ]	/* LoopAndCallFunction */
+    PUSHB[ ]	/* 2 values pushed */
+    5 1
+    SZP2[ ]	/* SetZonePointer2 */
+    RCVT[ ]	/* ReadCVT */
+    IF[ ]	/* If */
+      IUP[0]	/* InterpolateUntPts */
+    EIF[ ]	/* EndIf */
+  ELSE[ ]	/* Else */
+    CLEAR[ ]	/* ClearStack */
+  EIF[ ]	/* EndIf */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+50
+FDEF[ ]	/* FunctionDefinition */
+  DUP[ ]	/* DuplicateTopStack */
+  SHC[1]	/* ShiftContourByLastPt */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  ADD[ ]	/* Add */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+51
+FDEF[ ]	/* FunctionDefinition */
+  SVTCA[0]	/* SetFPVectorToAxis */
+  PUSHB[ ]	/* 2 values pushed */
+  12 13
+  RCVT[ ]	/* ReadCVT */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  RCVT[ ]	/* ReadCVT */
+  MUL[ ]	/* Multiply */
+  PUSHW[ ]	/* 1 value pushed */
+  1024
+  DIV[ ]	/* Divide */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    64
+    ADD[ ]	/* Add */
+  EIF[ ]	/* EndIf */
+  FLOOR[ ]	/* Floor */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  MUL[ ]	/* Multiply */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  12
+  RS[ ]	/* ReadStore */
+  MUL[ ]	/* Multiply */
+  PUSHW[ ]	/* 1 value pushed */
+  1024
+  DIV[ ]	/* Divide */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    64
+    ADD[ ]	/* Add */
+  EIF[ ]	/* EndIf */
+  FLOOR[ ]	/* Floor */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  MUL[ ]	/* Multiply */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SZPS[ ]	/* SetZonePointerS */
+  PUSHB[ ]	/* 5 values pushed */
+  0 0 0 0 0
+  WCVTP[ ]	/* WriteCVTInPixels */
+  MIAP[0]	/* MoveIndirectAbsPt */
+  SWAP[ ]	/* SwapTopStack */
+  SHPIX[ ]	/* ShiftZoneByPixel */
+  PUSHB[ ]	/* 2 values pushed */
+  50 1
+  SZP2[ ]	/* SetZonePointer2 */
+  LOOPCALL[ ]	/* LoopAndCallFunction */
+  POP[ ]	/* PopTopStack */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+52
+FDEF[ ]	/* FunctionDefinition */
+  DUP[ ]	/* DuplicateTopStack */
+  ALIGNRP[ ]	/* AlignRelativePt */
+  DUP[ ]	/* DuplicateTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  12
+  RS[ ]	/* ReadStore */
+  MUL[ ]	/* Multiply */
+  PUSHW[ ]	/* 1 value pushed */
+  1024
+  DIV[ ]	/* Divide */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    64
+    ADD[ ]	/* Add */
+  EIF[ ]	/* EndIf */
+  FLOOR[ ]	/* Floor */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  MUL[ ]	/* Multiply */
+  ADD[ ]	/* Add */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  RS[ ]	/* ReadStore */
+  SUB[ ]	/* Subtract */
+  SHPIX[ ]	/* ShiftZoneByPixel */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+53
+FDEF[ ]	/* FunctionDefinition */
+  MDAP[0]	/* MoveDirectAbsPt */
+  SLOOP[ ]	/* SetLoopVariable */
+  ALIGNRP[ ]	/* AlignRelativePt */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+54
+FDEF[ ]	/* FunctionDefinition */
+  DUP[ ]	/* DuplicateTopStack */
+  ALIGNRP[ ]	/* AlignRelativePt */
+  DUP[ ]	/* DuplicateTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  12
+  RS[ ]	/* ReadStore */
+  MUL[ ]	/* Multiply */
+  PUSHW[ ]	/* 1 value pushed */
+  1024
+  DIV[ ]	/* Divide */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    64
+    ADD[ ]	/* Add */
+  EIF[ ]	/* EndIf */
+  FLOOR[ ]	/* Floor */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  MUL[ ]	/* Multiply */
+  ADD[ ]	/* Add */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  RS[ ]	/* ReadStore */
+  SUB[ ]	/* Subtract */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  RS[ ]	/* ReadStore */
+  MUL[ ]	/* Multiply */
+  SHPIX[ ]	/* ShiftZoneByPixel */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+55
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  2 0
+  SZPS[ ]	/* SetZonePointerS */
+  CINDEX[ ]	/* CopyXToTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  MDAP[0]	/* MoveDirectAbsPt */
+  DUP[ ]	/* DuplicateTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 1 value pushed */
+  2
+  CINDEX[ ]	/* CopyXToTopStack */
+  MD[0]	/* MeasureDistance */
+  ROLL[ ]	/* RollTopThreeStack */
+  ROLL[ ]	/* RollTopThreeStack */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  DUP[ ]	/* DuplicateTopStack */
+  IF[ ]	/* If */
+    DIV[ ]	/* Divide */
+  ELSE[ ]	/* Else */
+    POP[ ]	/* PopTopStack */
+  EIF[ ]	/* EndIf */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 3 values pushed */
+  54 1 1
+  SZP2[ ]	/* SetZonePointer2 */
+  SZP1[ ]	/* SetZonePointer1 */
+  LOOPCALL[ ]	/* LoopAndCallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+56
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SZPS[ ]	/* SetZonePointerS */
+  PUSHB[ ]	/* 1 value pushed */
+  17
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  CINDEX[ ]	/* CopyXToTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  CINDEX[ ]	/* CopyXToTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  PUSHB[ ]	/* 2 values pushed */
+  10 0
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 1 value pushed */
+  9
+  RS[ ]	/* ReadStore */
+  CALL[ ]	/* CallFunction */
+  NEG[ ]	/* Negate */
+  ROLL[ ]	/* RollTopThreeStack */
+  MDAP[0]	/* MoveDirectAbsPt */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  ALIGNRP[ ]	/* AlignRelativePt */
+  ROLL[ ]	/* RollTopThreeStack */
+  SHPIX[ ]	/* ShiftZoneByPixel */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+57
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SZPS[ ]	/* SetZonePointerS */
+  PUSHB[ ]	/* 1 value pushed */
+  17
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  CINDEX[ ]	/* CopyXToTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  CINDEX[ ]	/* CopyXToTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  MDAP[0]	/* MoveDirectAbsPt */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 2 values pushed */
+  10 0
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 1 value pushed */
+  9
+  RS[ ]	/* ReadStore */
+  CALL[ ]	/* CallFunction */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  96
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    64
+    LTEQ[ ]	/* LessThenOrEqual */
+    IF[ ]	/* If */
+      PUSHB[ ]	/* 4 values pushed */
+      2 32 3 32
+    ELSE[ ]	/* Else */
+      PUSHB[ ]	/* 4 values pushed */
+      2 38 3 26
+    EIF[ ]	/* EndIf */
+    WS[ ]	/* WriteStore */
+    WS[ ]	/* WriteStore */
+    SWAP[ ]	/* SwapTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    8
+    RS[ ]	/* ReadStore */
+    DUP[ ]	/* DuplicateTopStack */
+    ROLL[ ]	/* RollTopThreeStack */
+    SWAP[ ]	/* SwapTopStack */
+    GC[1]	/* GetCoordOnPVector */
+    SWAP[ ]	/* SwapTopStack */
+    GC[1]	/* GetCoordOnPVector */
+    SWAP[ ]	/* SwapTopStack */
+    SUB[ ]	/* Subtract */
+    SWAP[ ]	/* SwapTopStack */
+    GC[0]	/* GetCoordOnPVector */
+    ADD[ ]	/* Add */
+    PUSHB[ ]	/* 1 value pushed */
+    4
+    RS[ ]	/* ReadStore */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    DIV[ ]	/* Divide */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    0
+    LT[ ]	/* LessThan */
+    IF[ ]	/* If */
+      PUSHB[ ]	/* 1 value pushed */
+      64
+      ADD[ ]	/* Add */
+    EIF[ ]	/* EndIf */
+    FLOOR[ ]	/* Floor */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    MUL[ ]	/* Multiply */
+    ADD[ ]	/* Add */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    CALL[ ]	/* CallFunction */
+    DUP[ ]	/* DuplicateTopStack */
+    ROLL[ ]	/* RollTopThreeStack */
+    ROLL[ ]	/* RollTopThreeStack */
+    SUB[ ]	/* Subtract */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    RS[ ]	/* ReadStore */
+    ADD[ ]	/* Add */
+    ABS[ ]	/* Absolute */
+    SWAP[ ]	/* SwapTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    3
+    RS[ ]	/* ReadStore */
+    SUB[ ]	/* Subtract */
+    ABS[ ]	/* Absolute */
+    LT[ ]	/* LessThan */
+    IF[ ]	/* If */
+      PUSHB[ ]	/* 1 value pushed */
+      2
+      RS[ ]	/* ReadStore */
+      SUB[ ]	/* Subtract */
+    ELSE[ ]	/* Else */
+      PUSHB[ ]	/* 1 value pushed */
+      3
+      RS[ ]	/* ReadStore */
+      ADD[ ]	/* Add */
+    EIF[ ]	/* EndIf */
+    PUSHB[ ]	/* 1 value pushed */
+    3
+    CINDEX[ ]	/* CopyXToTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    DIV[ ]	/* Divide */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    0
+    LT[ ]	/* LessThan */
+    IF[ ]	/* If */
+      PUSHB[ ]	/* 1 value pushed */
+      64
+      ADD[ ]	/* Add */
+    EIF[ ]	/* EndIf */
+    FLOOR[ ]	/* Floor */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    MUL[ ]	/* Multiply */
+    SUB[ ]	/* Subtract */
+    SWAP[ ]	/* SwapTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    4
+    MINDEX[ ]	/* MoveXToTopStack */
+    SWAP[ ]	/* SwapTopStack */
+    GC[0]	/* GetCoordOnPVector */
+    SUB[ ]	/* Subtract */
+    SHPIX[ ]	/* ShiftZoneByPixel */
+  ELSE[ ]	/* Else */
+    SWAP[ ]	/* SwapTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    8
+    RS[ ]	/* ReadStore */
+    GC[0]	/* GetCoordOnPVector */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    CINDEX[ ]	/* CopyXToTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    8
+    RS[ ]	/* ReadStore */
+    GC[1]	/* GetCoordOnPVector */
+    SWAP[ ]	/* SwapTopStack */
+    GC[1]	/* GetCoordOnPVector */
+    SWAP[ ]	/* SwapTopStack */
+    SUB[ ]	/* Subtract */
+    ADD[ ]	/* Add */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    4
+    RS[ ]	/* ReadStore */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    DIV[ ]	/* Divide */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    0
+    LT[ ]	/* LessThan */
+    IF[ ]	/* If */
+      PUSHB[ ]	/* 1 value pushed */
+      64
+      ADD[ ]	/* Add */
+    EIF[ ]	/* EndIf */
+    FLOOR[ ]	/* Floor */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    MUL[ ]	/* Multiply */
+    ADD[ ]	/* Add */
+    SWAP[ ]	/* SwapTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    CALL[ ]	/* CallFunction */
+    SWAP[ ]	/* SwapTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    4
+    RS[ ]	/* ReadStore */
+    ADD[ ]	/* Add */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    CALL[ ]	/* CallFunction */
+    PUSHB[ ]	/* 1 value pushed */
+    5
+    CINDEX[ ]	/* CopyXToTopStack */
+    SUB[ ]	/* Subtract */
+    PUSHB[ ]	/* 1 value pushed */
+    5
+    CINDEX[ ]	/* CopyXToTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    DIV[ ]	/* Divide */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    0
+    LT[ ]	/* LessThan */
+    IF[ ]	/* If */
+      PUSHB[ ]	/* 1 value pushed */
+      64
+      ADD[ ]	/* Add */
+    EIF[ ]	/* EndIf */
+    FLOOR[ ]	/* Floor */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    MUL[ ]	/* Multiply */
+    PUSHB[ ]	/* 1 value pushed */
+    4
+    MINDEX[ ]	/* MoveXToTopStack */
+    SUB[ ]	/* Subtract */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    4
+    CINDEX[ ]	/* CopyXToTopStack */
+    ADD[ ]	/* Add */
+    ABS[ ]	/* Absolute */
+    SWAP[ ]	/* SwapTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    3
+    CINDEX[ ]	/* CopyXToTopStack */
+    ADD[ ]	/* Add */
+    ABS[ ]	/* Absolute */
+    LT[ ]	/* LessThan */
+    IF[ ]	/* If */
+      POP[ ]	/* PopTopStack */
+    ELSE[ ]	/* Else */
+      SWAP[ ]	/* SwapTopStack */
+      POP[ ]	/* PopTopStack */
+    EIF[ ]	/* EndIf */
+    SWAP[ ]	/* SwapTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    4
+    MINDEX[ ]	/* MoveXToTopStack */
+    SWAP[ ]	/* SwapTopStack */
+    GC[0]	/* GetCoordOnPVector */
+    SUB[ ]	/* Subtract */
+    SHPIX[ ]	/* ShiftZoneByPixel */
+  EIF[ ]	/* EndIf */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+58
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SZPS[ ]	/* SetZonePointerS */
+  PUSHB[ ]	/* 1 value pushed */
+  17
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  5
+  MINDEX[ ]	/* MoveXToTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  MDAP[0]	/* MoveDirectAbsPt */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  SWAP[ ]	/* SwapTopStack */
+  ALIGNRP[ ]	/* AlignRelativePt */
+  SHPIX[ ]	/* ShiftZoneByPixel */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+59
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SZPS[ ]	/* SetZonePointerS */
+  PUSHB[ ]	/* 1 value pushed */
+  17
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  8
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  GC[0]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  CALL[ ]	/* CallFunction */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  SHPIX[ ]	/* ShiftZoneByPixel */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+60
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SZPS[ ]	/* SetZonePointerS */
+  PUSHB[ ]	/* 1 value pushed */
+  17
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 1 value pushed */
+  3
+  CINDEX[ ]	/* CopyXToTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  2
+  CINDEX[ ]	/* CopyXToTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  EQ[ ]	/* Equal */
+  IF[ ]	/* If */
+    MDAP[0]	/* MoveDirectAbsPt */
+    DUP[ ]	/* DuplicateTopStack */
+    ALIGNRP[ ]	/* AlignRelativePt */
+    SWAP[ ]	/* SwapTopStack */
+    POP[ ]	/* PopTopStack */
+  ELSE[ ]	/* Else */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    CINDEX[ ]	/* CopyXToTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    CINDEX[ ]	/* CopyXToTopStack */
+    GC[1]	/* GetCoordOnPVector */
+    SWAP[ ]	/* SwapTopStack */
+    GC[1]	/* GetCoordOnPVector */
+    SWAP[ ]	/* SwapTopStack */
+    SUB[ ]	/* Subtract */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    5
+    CINDEX[ ]	/* CopyXToTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    4
+    CINDEX[ ]	/* CopyXToTopStack */
+    GC[1]	/* GetCoordOnPVector */
+    SWAP[ ]	/* SwapTopStack */
+    GC[1]	/* GetCoordOnPVector */
+    SWAP[ ]	/* SwapTopStack */
+    SUB[ ]	/* Subtract */
+    PUSHB[ ]	/* 1 value pushed */
+    6
+    CINDEX[ ]	/* CopyXToTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    5
+    CINDEX[ ]	/* CopyXToTopStack */
+    MD[0]	/* MeasureDistance */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    CINDEX[ ]	/* CopyXToTopStack */
+    SUB[ ]	/* Subtract */
+    PUSHW[ ]	/* 2 values pushed */
+    2048 2048
+    MUL[ ]	/* Multiply */
+    MUL[ ]	/* Multiply */
+    SWAP[ ]	/* SwapTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    IF[ ]	/* If */
+      DIV[ ]	/* Divide */
+    ELSE[ ]	/* Else */
+      POP[ ]	/* PopTopStack */
+    EIF[ ]	/* EndIf */
+    MUL[ ]	/* Multiply */
+    PUSHW[ ]	/* 1 value pushed */
+    1024
+    DIV[ ]	/* Divide */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    0
+    LT[ ]	/* LessThan */
+    IF[ ]	/* If */
+      PUSHB[ ]	/* 1 value pushed */
+      64
+      ADD[ ]	/* Add */
+    EIF[ ]	/* EndIf */
+    FLOOR[ ]	/* Floor */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    MUL[ ]	/* Multiply */
+    ADD[ ]	/* Add */
+    SWAP[ ]	/* SwapTopStack */
+    MDAP[0]	/* MoveDirectAbsPt */
+    SWAP[ ]	/* SwapTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    ALIGNRP[ ]	/* AlignRelativePt */
+    ROLL[ ]	/* RollTopThreeStack */
+    SHPIX[ ]	/* ShiftZoneByPixel */
+    SWAP[ ]	/* SwapTopStack */
+    POP[ ]	/* PopTopStack */
+  EIF[ ]	/* EndIf */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+61
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SZPS[ ]	/* SetZonePointerS */
+  PUSHB[ ]	/* 1 value pushed */
+  17
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  8
+  RS[ ]	/* ReadStore */
+  DUP[ ]	/* DuplicateTopStack */
+  MDAP[0]	/* MoveDirectAbsPt */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  DUP[ ]	/* DuplicateTopStack */
+  ADD[ ]	/* Add */
+  PUSHB[ ]	/* 1 value pushed */
+  32
+  ADD[ ]	/* Add */
+  FLOOR[ ]	/* Floor */
+  PUSHB[ ]	/* 1 value pushed */
+  2
+  DIV[ ]	/* Divide */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    PUSHB[ ]	/* 1 value pushed */
+    64
+    ADD[ ]	/* Add */
+  EIF[ ]	/* EndIf */
+  FLOOR[ ]	/* Floor */
+  PUSHB[ ]	/* 1 value pushed */
+  1
+  MUL[ ]	/* Multiply */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  ALIGNRP[ ]	/* AlignRelativePt */
+  ROLL[ ]	/* RollTopThreeStack */
+  SHPIX[ ]	/* ShiftZoneByPixel */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+62
+FDEF[ ]	/* FunctionDefinition */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  MDAP[0]	/* MoveDirectAbsPt */
+  GC[0]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  2
+  CINDEX[ ]	/* CopyXToTopStack */
+  GC[0]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  17
+  RS[ ]	/* ReadStore */
+  IF[ ]	/* If */
+    LT[ ]	/* LessThan */
+  ELSE[ ]	/* Else */
+    GT[ ]	/* GreaterThan */
+  EIF[ ]	/* EndIf */
+  IF[ ]	/* If */
+    DUP[ ]	/* DuplicateTopStack */
+    ALIGNRP[ ]	/* AlignRelativePt */
+  EIF[ ]	/* EndIf */
+  MDAP[0]	/* MoveDirectAbsPt */
+  PUSHB[ ]	/* 2 values pushed */
+  46 1
+  SZP1[ ]	/* SetZonePointer1 */
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+63
+FDEF[ ]	/* FunctionDefinition */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  MDAP[0]	/* MoveDirectAbsPt */
+  GC[0]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  2
+  CINDEX[ ]	/* CopyXToTopStack */
+  GC[0]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  17
+  RS[ ]	/* ReadStore */
+  IF[ ]	/* If */
+    GT[ ]	/* GreaterThan */
+  ELSE[ ]	/* Else */
+    LT[ ]	/* LessThan */
+  EIF[ ]	/* EndIf */
+  IF[ ]	/* If */
+    DUP[ ]	/* DuplicateTopStack */
+    ALIGNRP[ ]	/* AlignRelativePt */
+  EIF[ ]	/* EndIf */
+  MDAP[0]	/* MoveDirectAbsPt */
+  PUSHB[ ]	/* 2 values pushed */
+  46 1
+  SZP1[ ]	/* SetZonePointer1 */
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+64
+FDEF[ ]	/* FunctionDefinition */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  MDAP[0]	/* MoveDirectAbsPt */
+  GC[0]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  2
+  CINDEX[ ]	/* CopyXToTopStack */
+  GC[0]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  17
+  RS[ ]	/* ReadStore */
+  IF[ ]	/* If */
+    LT[ ]	/* LessThan */
+  ELSE[ ]	/* Else */
+    GT[ ]	/* GreaterThan */
+  EIF[ ]	/* EndIf */
+  IF[ ]	/* If */
+    DUP[ ]	/* DuplicateTopStack */
+    ALIGNRP[ ]	/* AlignRelativePt */
+  EIF[ ]	/* EndIf */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  MDAP[0]	/* MoveDirectAbsPt */
+  GC[0]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  2
+  CINDEX[ ]	/* CopyXToTopStack */
+  GC[0]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  17
+  RS[ ]	/* ReadStore */
+  IF[ ]	/* If */
+    GT[ ]	/* GreaterThan */
+  ELSE[ ]	/* Else */
+    LT[ ]	/* LessThan */
+  EIF[ ]	/* EndIf */
+  IF[ ]	/* If */
+    DUP[ ]	/* DuplicateTopStack */
+    ALIGNRP[ ]	/* AlignRelativePt */
+  EIF[ ]	/* EndIf */
+  MDAP[0]	/* MoveDirectAbsPt */
+  PUSHB[ ]	/* 2 values pushed */
+  46 1
+  SZP1[ ]	/* SetZonePointer1 */
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+65
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  56
+  CALL[ ]	/* CallFunction */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  MDAP[0]	/* MoveDirectAbsPt */
+  GC[0]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  2
+  CINDEX[ ]	/* CopyXToTopStack */
+  GC[0]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  17
+  RS[ ]	/* ReadStore */
+  IF[ ]	/* If */
+    LT[ ]	/* LessThan */
+  ELSE[ ]	/* Else */
+    GT[ ]	/* GreaterThan */
+  EIF[ ]	/* EndIf */
+  IF[ ]	/* If */
+    DUP[ ]	/* DuplicateTopStack */
+    ALIGNRP[ ]	/* AlignRelativePt */
+  EIF[ ]	/* EndIf */
+  MDAP[0]	/* MoveDirectAbsPt */
+  PUSHB[ ]	/* 2 values pushed */
+  46 1
+  SZP1[ ]	/* SetZonePointer1 */
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+66
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  57
+  CALL[ ]	/* CallFunction */
+  ROLL[ ]	/* RollTopThreeStack */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  ALIGNRP[ ]	/* AlignRelativePt */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  ROLL[ ]	/* RollTopThreeStack */
+  SHPIX[ ]	/* ShiftZoneByPixel */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  MDAP[0]	/* MoveDirectAbsPt */
+  GC[0]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  2
+  CINDEX[ ]	/* CopyXToTopStack */
+  GC[0]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  17
+  RS[ ]	/* ReadStore */
+  IF[ ]	/* If */
+    LT[ ]	/* LessThan */
+  ELSE[ ]	/* Else */
+    GT[ ]	/* GreaterThan */
+  EIF[ ]	/* EndIf */
+  IF[ ]	/* If */
+    DUP[ ]	/* DuplicateTopStack */
+    ALIGNRP[ ]	/* AlignRelativePt */
+  EIF[ ]	/* EndIf */
+  MDAP[0]	/* MoveDirectAbsPt */
+  PUSHB[ ]	/* 2 values pushed */
+  46 1
+  SZP1[ ]	/* SetZonePointer1 */
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  RS[ ]	/* ReadStore */
+  MDAP[0]	/* MoveDirectAbsPt */
+  PUSHB[ ]	/* 1 value pushed */
+  46
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+67
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SZPS[ ]	/* SetZonePointerS */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  CINDEX[ ]	/* CopyXToTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  MINDEX[ ]	/* MoveXToTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  GC[0]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  SUB[ ]	/* Subtract */
+  PUSHB[ ]	/* 1 value pushed */
+  10
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  MDAP[0]	/* MoveDirectAbsPt */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  PUSHB[ ]	/* 1 value pushed */
+  9
+  RS[ ]	/* ReadStore */
+  CALL[ ]	/* CallFunction */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  ALIGNRP[ ]	/* AlignRelativePt */
+  DUP[ ]	/* DuplicateTopStack */
+  MDAP[0]	/* MoveDirectAbsPt */
+  SWAP[ ]	/* SwapTopStack */
+  SHPIX[ ]	/* ShiftZoneByPixel */
+  PUSHB[ ]	/* 2 values pushed */
+  46 1
+  SZP1[ ]	/* SetZonePointer1 */
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+68
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  8 4
+  CINDEX[ ]	/* CopyXToTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SZPS[ ]	/* SetZonePointerS */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  CINDEX[ ]	/* CopyXToTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  CINDEX[ ]	/* CopyXToTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  MDAP[0]	/* MoveDirectAbsPt */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 2 values pushed */
+  10 0
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 1 value pushed */
+  9
+  RS[ ]	/* ReadStore */
+  CALL[ ]	/* CallFunction */
+  DUP[ ]	/* DuplicateTopStack */
+  PUSHB[ ]	/* 1 value pushed */
+  96
+  LT[ ]	/* LessThan */
+  IF[ ]	/* If */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    64
+    LTEQ[ ]	/* LessThenOrEqual */
+    IF[ ]	/* If */
+      PUSHB[ ]	/* 4 values pushed */
+      2 32 3 32
+    ELSE[ ]	/* Else */
+      PUSHB[ ]	/* 4 values pushed */
+      2 38 3 26
+    EIF[ ]	/* EndIf */
+    WS[ ]	/* WriteStore */
+    WS[ ]	/* WriteStore */
+    SWAP[ ]	/* SwapTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    GC[1]	/* GetCoordOnPVector */
+    PUSHB[ ]	/* 1 value pushed */
+    4
+    RS[ ]	/* ReadStore */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    DIV[ ]	/* Divide */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    0
+    LT[ ]	/* LessThan */
+    IF[ ]	/* If */
+      PUSHB[ ]	/* 1 value pushed */
+      64
+      ADD[ ]	/* Add */
+    EIF[ ]	/* EndIf */
+    FLOOR[ ]	/* Floor */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    MUL[ ]	/* Multiply */
+    ADD[ ]	/* Add */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    CALL[ ]	/* CallFunction */
+    DUP[ ]	/* DuplicateTopStack */
+    ROLL[ ]	/* RollTopThreeStack */
+    ROLL[ ]	/* RollTopThreeStack */
+    SUB[ ]	/* Subtract */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    RS[ ]	/* ReadStore */
+    ADD[ ]	/* Add */
+    ABS[ ]	/* Absolute */
+    SWAP[ ]	/* SwapTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    3
+    RS[ ]	/* ReadStore */
+    SUB[ ]	/* Subtract */
+    ABS[ ]	/* Absolute */
+    LT[ ]	/* LessThan */
+    IF[ ]	/* If */
+      PUSHB[ ]	/* 1 value pushed */
+      2
+      RS[ ]	/* ReadStore */
+      SUB[ ]	/* Subtract */
+    ELSE[ ]	/* Else */
+      PUSHB[ ]	/* 1 value pushed */
+      3
+      RS[ ]	/* ReadStore */
+      ADD[ ]	/* Add */
+    EIF[ ]	/* EndIf */
+    PUSHB[ ]	/* 1 value pushed */
+    3
+    CINDEX[ ]	/* CopyXToTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    DIV[ ]	/* Divide */
+    DUP[ ]	/* DuplicateTopStack */
+    PUSHB[ ]	/* 1 value pushed */
+    0
+    LT[ ]	/* LessThan */
+    IF[ ]	/* If */
+      PUSHB[ ]	/* 1 value pushed */
+      64
+      ADD[ ]	/* Add */
+    EIF[ ]	/* EndIf */
+    FLOOR[ ]	/* Floor */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    MUL[ ]	/* Multiply */
+    SUB[ ]	/* Subtract */
+    PUSHB[ ]	/* 1 value pushed */
+    2
+    CINDEX[ ]	/* CopyXToTopStack */
+    GC[0]	/* GetCoordOnPVector */
+    SUB[ ]	/* Subtract */
+    SHPIX[ ]	/* ShiftZoneByPixel */
+    SWAP[ ]	/* SwapTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    ALIGNRP[ ]	/* AlignRelativePt */
+    SWAP[ ]	/* SwapTopStack */
+    SHPIX[ ]	/* ShiftZoneByPixel */
+  ELSE[ ]	/* Else */
+    POP[ ]	/* PopTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    DUP[ ]	/* DuplicateTopStack */
+    GC[0]	/* GetCoordOnPVector */
+    SWAP[ ]	/* SwapTopStack */
+    GC[1]	/* GetCoordOnPVector */
+    PUSHB[ ]	/* 1 value pushed */
+    1
+    CALL[ ]	/* CallFunction */
+    SWAP[ ]	/* SwapTopStack */
+    SUB[ ]	/* Subtract */
+    SHPIX[ ]	/* ShiftZoneByPixel */
+    POP[ ]	/* PopTopStack */
+  EIF[ ]	/* EndIf */
+  PUSHB[ ]	/* 2 values pushed */
+  46 1
+  SZP1[ ]	/* SetZonePointer1 */
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+69
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 56
+  CALL[ ]	/* CallFunction */
+  MDAP[0]	/* MoveDirectAbsPt */
+  PUSHB[ ]	/* 2 values pushed */
+  46 1
+  SZP1[ ]	/* SetZonePointer1 */
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+70
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 57
+  CALL[ ]	/* CallFunction */
+  POP[ ]	/* PopTopStack */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  ALIGNRP[ ]	/* AlignRelativePt */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  SWAP[ ]	/* SwapTopStack */
+  SHPIX[ ]	/* ShiftZoneByPixel */
+  PUSHB[ ]	/* 2 values pushed */
+  46 1
+  SZP1[ ]	/* SetZonePointer1 */
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  4
+  RS[ ]	/* ReadStore */
+  MDAP[0]	/* MoveDirectAbsPt */
+  PUSHB[ ]	/* 1 value pushed */
+  46
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+71
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SZP2[ ]	/* SetZonePointer2 */
+  DUP[ ]	/* DuplicateTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 3 values pushed */
+  0 1 1
+  SZP2[ ]	/* SetZonePointer2 */
+  SZP1[ ]	/* SetZonePointer1 */
+  SZP0[ ]	/* SetZonePointer0 */
+  MDAP[0]	/* MoveDirectAbsPt */
+  PUSHB[ ]	/* 1 value pushed */
+  52
+  LOOPCALL[ ]	/* LoopAndCallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+72
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SZP2[ ]	/* SetZonePointer2 */
+  DUP[ ]	/* DuplicateTopStack */
+  GC[1]	/* GetCoordOnPVector */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 3 values pushed */
+  0 1 1
+  SZP2[ ]	/* SetZonePointer2 */
+  SZP1[ ]	/* SetZonePointer1 */
+  SZP0[ ]	/* SetZonePointer0 */
+  MDAP[0]	/* MoveDirectAbsPt */
+  PUSHB[ ]	/* 1 value pushed */
+  52
+  LOOPCALL[ ]	/* LoopAndCallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+73
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 1
+  SZP1[ ]	/* SetZonePointer1 */
+  SZP0[ ]	/* SetZonePointer0 */
+  PUSHB[ ]	/* 1 value pushed */
+  53
+  LOOPCALL[ ]	/* LoopAndCallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+74
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  55
+  LOOPCALL[ ]	/* LoopAndCallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+75
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SZPS[ ]	/* SetZonePointerS */
+  RCVT[ ]	/* ReadCVT */
+  SWAP[ ]	/* SwapTopStack */
+  DUP[ ]	/* DuplicateTopStack */
+  MDAP[0]	/* MoveDirectAbsPt */
+  DUP[ ]	/* DuplicateTopStack */
+  GC[0]	/* GetCoordOnPVector */
+  ROLL[ ]	/* RollTopThreeStack */
+  SWAP[ ]	/* SwapTopStack */
+  SUB[ ]	/* Subtract */
+  SHPIX[ ]	/* ShiftZoneByPixel */
+  PUSHB[ ]	/* 2 values pushed */
+  46 1
+  SZP1[ ]	/* SetZonePointer1 */
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+76
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  8
+  SWAP[ ]	/* SwapTopStack */
+  WS[ ]	/* WriteStore */
+  PUSHB[ ]	/* 1 value pushed */
+  75
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+77
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  0 0 68
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+78
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  0 1 68
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+79
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  1 0 68
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+80
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  1 1 68
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+81
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  0 0 69
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+82
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  0 1 69
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+83
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  1 0 69
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+84
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  1 1 69
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+85
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  0 0 0 65
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+86
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  0 1 0 65
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+87
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  1 0 0 65
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+88
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  1 1 0 65
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+89
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  0 0 1 65
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+90
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  0 1 1 65
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+91
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  1 0 1 65
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+92
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  1 1 1 65
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+93
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  0 0 67
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+94
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  0 1 67
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+95
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  1 0 67
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+96
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  1 1 67
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+97
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  0 0 70
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+98
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  0 1 70
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+99
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  1 0 70
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+100
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 3 values pushed */
+  1 1 70
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+101
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  0 0 0 66
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+102
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  0 1 0 66
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+103
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  1 0 0 66
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+104
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  1 1 0 66
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+105
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  0 0 1 66
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+106
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  0 1 1 66
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+107
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  1 0 1 66
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+108
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  1 1 1 66
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+109
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 58
+  CALL[ ]	/* CallFunction */
+  MDAP[0]	/* MoveDirectAbsPt */
+  PUSHB[ ]	/* 2 values pushed */
+  46 1
+  SZP1[ ]	/* SetZonePointer1 */
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+110
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 58
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  62
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+111
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 58
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  63
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+112
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SZPS[ ]	/* SetZonePointerS */
+  PUSHB[ ]	/* 2 values pushed */
+  0 58
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  64
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+113
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  1 58
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  62
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+114
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  1 58
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  63
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+115
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 1 value pushed */
+  0
+  SZPS[ ]	/* SetZonePointerS */
+  PUSHB[ ]	/* 2 values pushed */
+  1 58
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  64
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+116
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 59
+  CALL[ ]	/* CallFunction */
+  MDAP[0]	/* MoveDirectAbsPt */
+  PUSHB[ ]	/* 2 values pushed */
+  46 1
+  SZP1[ ]	/* SetZonePointer1 */
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+117
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 59
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  62
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+118
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 59
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  63
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+119
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 59
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  64
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+120
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  1 59
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  62
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+121
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  1 59
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  63
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+122
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  1 59
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  64
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+123
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 60
+  CALL[ ]	/* CallFunction */
+  MDAP[0]	/* MoveDirectAbsPt */
+  PUSHB[ ]	/* 2 values pushed */
+  46 1
+  SZP1[ ]	/* SetZonePointer1 */
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+124
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 60
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  62
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+125
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 60
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  63
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+126
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 60
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  64
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+127
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  1 60
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  62
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+128
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  1 60
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  63
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+129
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  1 60
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  64
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+130
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 61
+  CALL[ ]	/* CallFunction */
+  MDAP[0]	/* MoveDirectAbsPt */
+  PUSHB[ ]	/* 2 values pushed */
+  46 1
+  SZP1[ ]	/* SetZonePointer1 */
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+131
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 61
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  62
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+132
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 61
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  63
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+133
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  0 61
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  64
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+134
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  1 61
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  62
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+135
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  1 61
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  63
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+136
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 2 values pushed */
+  1 61
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  64
+  CALL[ ]	/* CallFunction */
+ENDF[ ]	/* EndFunctionDefinition */
+PUSHB[ ]	/* 1 value pushed */
+137
+FDEF[ ]	/* FunctionDefinition */
+  PUSHB[ ]	/* 4 values pushed */
+  9 4 2 3
+  RCVT[ ]	/* ReadCVT */
+  IF[ ]	/* If */
+    POP[ ]	/* PopTopStack */
+  ELSE[ ]	/* Else */
+    SWAP[ ]	/* SwapTopStack */
+    POP[ ]	/* PopTopStack */
+  EIF[ ]	/* EndIf */
+  WS[ ]	/* WriteStore */
+  CALL[ ]	/* CallFunction */
+  PUSHB[ ]	/* 1 value pushed */
+  8
+  NEG[ ]	/* Negate */
+  PUSHB[ ]	/* 1 value pushed */
+  3
+  DEPTH[ ]	/* GetDepthStack */
+  LT[ ]	/* LessThan */
+  JROT[ ]	/* JumpRelativeOnTrue */
+  PUSHB[ ]	/* 2 values pushed */
+  5 1
+  SZP2[ ]	/* SetZonePointer2 */
+  RCVT[ ]	/* ReadCVT */
+  IF[ ]	/* If */
+    IUP[0]	/* InterpolateUntPts */
+  EIF[ ]	/* EndIf */
+ENDF[ ]	/* EndFunctionDefinition */
+</string>
+      <key>formatVersion</key>
+      <integer>1</integer>
+      <key>maxFunctionDefs</key>
+      <integer>139</integer>
+      <key>maxInstructionDefs</key>
+      <integer>0</integer>
+      <key>maxStackElements</key>
+      <integer>131</integer>
+      <key>maxStorage</key>
+      <integer>72</integer>
+      <key>maxTwilightPoints</key>
+      <integer>54</integer>
+      <key>maxZones</key>
+      <integer>2</integer>
+    </dict>
+  </dict>
+</plist>
