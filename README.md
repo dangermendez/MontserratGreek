@@ -1,6 +1,7 @@
 # MontserratGreek
 A fork of Montserrat Regular by Google Fonts with Greek support (including Greek Extended (the polytonic glyphs used in Ancient Greek), designed in response to multiple requests by users. **Be careful, only regular weight is included.** More weights coming soon. I have also modified the "π" to look better.
 
+UPDATE 11/23/2021: I will be forking the original project and including my added glyphs, and be making a pull request soon.
 **NOTES:** 
 
 1. The polytonic accents look somewhat out of shape because the accented letters were generated using FontForge’s “Build Accented Glyph” feature that put some accents WAY out of place, therefore quick manual adjustments were made. 
